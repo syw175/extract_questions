@@ -1,0 +1,869 @@
+1. Project stakeholder management has only been identified as an entire knowledge area by the Project Management Institute since 2013.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Because stakeholder management is so important to project success, the Project Management Institute decided to create an entire knowledge area devoted to it as part of the Fifth Edition of the PMBOK Guide in 2013.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.540
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/10/2018 6:20 PM
+
+
+2. Project stakeholder management is completely unrelated to communications and resource management.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Many of the concepts related to communications and human resource management also apply to stakeholder management, but unique activities are required to perform good stakeholder management.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.540
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+3. Projects often do not cause any changes in an organization.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Projects often cause changes in organizations, and some people may lose their jobs when a project is completed. For example, a project might create a new system that makes some jobs obsolete, or a project might result in outsourcing work to an external group to make the organization more efficient.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.540-541
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+4. The main output of the identifying stakeholders process is the project charter.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Identifying stakeholders involves identifying everyone involved in the project or affected by it, and determining the best ways to manage relationships with them. The main output of this process is a stakeholder register.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.541
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+5. Internal stakeholders include top management, other functional managers, and other project managers.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Internal project stakeholders generally include the project sponsor, project team, support staff, and internal customers for the project. Other internal stakeholders include top management, other functional managers, and other project managers because organizations have limited resources.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.542
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+6. Groups representing consumer, environmental, or other interests can be identified as project stakeholders.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Groups representing consumer, environmental, or other interests can be identified as project stakeholders.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.543
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+7. Stakeholders might change during a project due to employee turnover, partnerships, and other events.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Stakeholders might change during a project due to employee turnover, partnerships, and other events.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.543
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+8. Sensitive information can be included in the stakeholder register as very few people in the organization have access to it.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Because this document is available to other people in the organization, the project manager must be careful not to include sensitive information, such as how strongly the stakeholders support the project or how much power they have.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.544
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+9. A leading stakeholder is one who is aware of the project and is neither supportive nor resistant to it.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: A leading stakeholder is one who is aware of the project and its potential impacts and actively engaged in helping it succeed
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.545
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+10. The stakeholder management plan is always a formal document.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: After identifying and analyzing stakeholders, the project manager and team should develop a stakeholder management plan to help them effectively engage stakeholders and make sure that good decisions are made throughout the life of the project. This plan may be formal or informal, based on the needs of the project.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.546
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.98 - LO: 13-3
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+11. The stakeholder management plan should not be accessible to all stakeholders.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Because a stakeholder management plan often includes sensitive information, it should not be part of the official project documents, which are normally available for all stakeholders to review.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.546
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.98 - LO: 13-3
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+12. Communication and interpersonal skills are important for successful project stakeholder management.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Project managers must understand and work with various stakeholders; therefore, they should specifically address how to use various communications methods and their interpersonal and management skills to engage stakeholders.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.548
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.99 - LO: 13-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Managing Stakeholder Engagement
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+13. Issue logs can be used to address issues related to other knowledge areas like project scope management or project quality management.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Issues should be documented in an issue log, a tool used to document, monitor, and track issues that need resolution. Though the PMI now lists issue logs as a tool for stakeholder management, even though they can address issues related to other knowledge areas.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.548
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.99 - LO: 13-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Managing Stakeholder Engagement
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+14. Though stakeholders cannot be controlled, their level of engagement can be monitored.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: You cannot control stakeholders, but you can monitor their level of engagement. Engagement involves a dialogue in which people seek understanding and solutions to issues of mutual concern.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.550
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.100 - LO: 13-5
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Controlling Stakeholder Engagement
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/10/2018 6:25 PM
+
+
+15. Key stakeholders need not be invited to participate in a kick-off meeting.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Key stakeholders should be invited to actively participate in a kick-off meeting rather than merely attending it. The project manager should emphasize that a dialogue is expected at the meeting, including texts or whatever means of communication the stakeholders prefer.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.551
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.100 - LO: 13-5
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Controlling Stakeholder Engagement
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+16. Communications software like e-mail, blogs, websites, texts, and tweets can aid in stakeholder communications.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Productivity software like word processors, spreadsheets, and presentation software can aid in creating various documents related to stakeholder management. Communications software like e-mail, blogs, websites, texts, and tweets can aid in stakeholder communications.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.553
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.101 - LO: 13-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Using Software To Assist In Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/10/2018 6:26 PM
+
+
+17. Project management software tools normally do not promote the use of Facebook as a forum to promote project activities.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Although many organizations do not promote the use of Facebook at work, several project management software tools include functionality like Facebook’s to encourage relationship building on projects.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.553
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.101 - LO: 13-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Using Software To Assist In Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+Multiple Choice
+
+18. Which is the new knowledge area identified by the Project Management Institute?
+ 	a. 	project stakeholder management	b. 	project communication management
+ 	c. 	project risk management	d. 	project procurement management
+ANSWER:  	a
+RATIONALE:  	Feedback: Because stakeholder management is so important to project success, the Project Management Institute decided to create an entire knowledge area devoted to it.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.540
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/8/2018 8:08 PM
+
+
+19. What process involves determining everyone involved in the project or affected by it, and determining the best ways to manage relationships with them?
+ 	a. 	identifying stakeholders	b. 	planning stakeholder management
+ 	c. 	managing stakeholder engagement	d. 	controlling stakeholder engagement
+ANSWER:  	a
+RATIONALE:  	Feedback: Identifying stakeholders involves identifying everyone involved in the project or affected by it, and determining the best ways to manage relationships with them. The main output of this process is a stakeholder register.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.541
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/10/2018 6:28 PM
+
+
+20. The main output of which process is the stakeholder register?
+ 	a. 	planning stakeholder management	b. 	identifying stakeholders
+ 	c. 	managing stakeholder engagement	d. 	controlling stakeholder engagement
+ANSWER:  	b
+RATIONALE:  	Feedback: Identifying stakeholders involves identifying everyone involved in the project or affected by it, and determining the best ways to manage relationships with them. The main output of this process is a stakeholder register.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.541
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/8/2018 8:01 PM
+
+
+21. One of the main outputs of the _____ process are change requests.
+ 	a. 	planning stakeholder management	b. 	identifying stakeholders
+ 	c. 	managing stakeholder engagement	d. 	controlling stakeholder engagement
+ANSWER:  	c
+RATIONALE:  	Feedback: The outputs of this process change requests, project management plan updates, and project documents updates.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.541
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+22. Which process involves monitoring stakeholder relationships and adjusting plans and strategies for engaging stakeholders as needed?
+ 	a. 	planning stakeholder management	b. 	identifying stakeholders
+ 	c. 	managing stakeholder engagement	d. 	monitoring stakeholder engagement
+ANSWER:  	d
+RATIONALE:  	Feedback: Monitoring stakeholder engagement involves monitoring stakeholder relationships and adjusting plans and strategies for engaging stakeholders as needed. Outputs of this process are work performance information, change requests, project documents updates, and organizational process assets updates.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.541
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/8/2018 8:02 PM
+
+
+23. The stakeholder register is the output of the _____ stakeholders process of project stakeholder management.
+ 	a. 	identifying 	b. 	planning
+ 	c. 	executing	d. 	monitoring 
+ANSWER:  	a
+RATIONALE:  	Feedback: The stakeholder register is the output of the identifying stakeholders process of project stakeholder management.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.541
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+24. Which is true about identifying stakeholders?
+ 	a. 	External project stakeholders include the project’s customers.	b. 	It is not very difficult to identify stakeholders.
+ 	c. 	Stakeholders with indirect ties to the project need not be engaged with.	d. 	Stakeholders do not change during a project.
+ANSWER:  	a
+RATIONALE:  	Feedback: External project stakeholders include the project’s customers.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.542
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+25. Doctors who actively participate in a project related to using information technology for chronic health problems would be examples of which stakeholder?
+ 	a. 	supportive	b. 	leading
+ 	c. 	resistant	d. 	neutral
+ANSWER:  	b
+RATIONALE:  	Feedback: Leading stakeholders are aware of the project and its potential impacts and actively engaged in helping it succeed.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.545
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/10/2018 6:33 PM
+
+
+26. The project team must take corrective action if stakeholders with high interest and high power are categorized as _____.
+ 	a. 	resistant	b. 	neutral
+ 	c. 	supportive	d. 	leading
+ANSWER:  	a
+RATIONALE:  	Feedback: The project team should take corrective action if stakeholders with high interest and high power are also categorized as resistant or unaware.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.545
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+27. The project team must take corrective action if stakeholders with _____ are categorized as resistant or unaware.
+ 	a. 	high interest/low power	b. 	high interest and high power
+ 	c. 	low interest/ low power	d. 	low interest/high power
+ANSWER:  	b
+RATIONALE:  	Feedback: The project team should take corrective action if stakeholders with high interest and high power are also categorized as resistant or unaware.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.545
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+28. After identifying and analyzing stakeholders, the project manager and team should develop a(n) ______ to help them effectively engage stakeholders and make sure that good decisions are made throughout the life of the project.
+ 	a. 	stakeholder engagement plan	b. 	stakeholder register
+ 	c. 	issue log	d. 	power/interest grid
+ANSWER:  	a
+RATIONALE:  	Feedback: After identifying and analyzing stakeholders, the project manager and team should develop a stakeholder engagement plan to help them effectively engage stakeholders and make sure that good decisions are made throughout the life of the project.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.546
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.98 - LO: 13-3
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Stakeholder Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+29. Scope, time and cost goals in order of importance can be ranked on a(n) _____.
+ 	a. 	requirements traceability matrix	b. 	expectations management matrix
+ 	c. 	responsibility assignment matrix	d. 	probability matrix
+ANSWER:  	b
+RATIONALE:  	Feedback: Project sponsors can usually rank scope, time, and cost goals in order of importance and provide guidelines on how to balance the triple constraint. This ranking can be shown in an expectations management matrix, which can help clarify expectations.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.548
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.99 - LO: 13-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Managing Stakeholder Engagement
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+30. A(n) _____ is a tool used to document, monitor, and track problems that need resolution.
+ 	a. 	requirements traceability matrix	b. 	Gantt chart
+ 	c. 	power/interest grid	d. 	issue log
+ANSWER:  	d
+RATIONALE:  	Feedback: Issues should be documented in an issue log, a tool used to document, monitor, and track issues that need resolution.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.548
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.99 - LO: 13-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Managing Stakeholder Engagement
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+Completion
+
+31. The purpose of _____ is to identify all people or organizations affected by a project, to analyze their expectations, and to effectively engage them in project decisions throughout the life of a project.
+ANSWER:  	project stakeholder management
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.540
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+32. _____ can be perceived as enemies or allies by stakeholders depending on the outcomes of a project.
+ANSWER:  	Project managers
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.541
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+33. The main output of the identifying stakeholders process is the _____.
+ANSWER:  	stakeholder register
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.541
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+34. You can create a(n) _____ to group stakeholders based on their level of authority (power) and their level of concern (interest) for project outcomes.
+ANSWER:  	power/interest grid
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.544
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+35. _____ can be classified as internal to the organization or external.
+ANSWER:  	Project stakeholders
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.542
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+36. The project sponsor, project team and the support staff would be the _____ project stakeholders.
+ANSWER:  	internal
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.542
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+37. Government officials and concerned citizens would be classified as _____ project stakeholders.
+ANSWER:  	external
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.542
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+38. A simple way to document basic information on project stakeholders is by creating a(n) _____.
+ANSWER:  	stakeholder register
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.543
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+39. A(n) _____ is a technique for analyzing information to determine which stakeholders’ interests to focus on and how to increase stakeholder support throughout the project.
+ANSWER:  	stakeholder analysis
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.544
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+40. A(n) _____ stakeholder is aware of the project yet resistant to change.
+ANSWER:  	resistant
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.545
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+41. A(n) _____ stakeholder is one who is oblivious to a project and its potential impact.
+ANSWER:  	unaware
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.545
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+42. A(n) _____ stakeholder is one who is aware of the project and is neither supportive nor resistant.
+ANSWER:  	neutral
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.545
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+43. A(n) _____ stakeholder is one who is aware of the project and its potential impacts and actively engaged in helping it succeed.
+ANSWER:  	leading
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.545
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+44. The _____ is a formal or informal document that helps project teams to effectively engage stakeholders and make sure that good decisions are made throughout the life of the project.
+ANSWER:  	stakeholder engagement plan
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.546
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.98 - LO: 13-3
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Stakeholder Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+45. A(n) _____ is a tool that helps clarify expectations and lists project measures of success as well as priorities, expectations, and guidelines related to each measure.
+ANSWER:  	expectations management matrix
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.548
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.99 - LO: 13-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Managing Stakeholder Engagement
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+46. A(n) _____ is a tool that is used to document, monitor, and track problems that need resolution.
+ANSWER:  	issue log
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.548
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.99 - LO: 13-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Managing Stakeholder Engagement
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+47. A(n) _____ stakeholder is aware of the project and supportive of change.
+ANSWER:  	supportive
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.545
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	6/7/2018 4:31 PM
+DATE MODIFIED:  	6/7/2018 4:34 PM
+
+
+Essay
+
+48. Identify and describe the processes involved in project stakeholder management.
+ANSWER:  	The four processes in project stakeholder management include the following:
+
+Identifying stakeholders involves identifying everyone involved in the project or affected by it, and determining the best ways to manage relationships with them. The main output of this process is a stakeholder register.
+
+Planning stakeholder management involves determining strategies to effectively engage stakeholders in project decisions and activities based on their needs, interests, and potential impact. Outputs of this process are a stakeholder engagement plan.
+
+Managing stakeholder engagement involves communicating and working with project stakeholders to satisfy their needs and expectations, resolving issues, and fostering engagement in project decisions and activities. The outputs of this process are change requests, project management plan updates, and project documents updates.
+
+Monitoring stakeholder engagement involves monitoring stakeholder relationships and adjusting plans and strategies for engaging stakeholders as needed. Outputs of this process are work performance information, change requests, project management plan updates, and project documents updates.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.541
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.96 - LO: 13-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Stakeholder Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+49. What is a stakeholder register and what information must be included in it?
+ANSWER:  	A simple way to document basic information on project stakeholders is by creating a stakeholder register. This document can take various forms and include the following information:
+
+• Identification information: The stakeholders’ names, positions, locations, roles in the project, and contact information.
+
+• Assessment information: The stakeholders? ’ major requirements and expectations, potential influences, and phases of the project in which stakeholders have the most interest.
+
+• Stakeholder classification: Is the stakeholder internal or external to the organization? Is the stakeholder a supporter of the project or resistant to it?
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.543
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.97 - LO: 13-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Stakeholders
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+50. What must be the contents of the stakeholder management plan?
+ANSWER:  	• Current and desired engagement levels: If these levels are not the same, the project team should develop a strategy to align engagement levels.
+
+• Interrelationships between stakeholders: There are many interrelationships between project activities and stakeholders. The project manager must be in tune with the politics of the organization.
+
+• Communication requirements: The communications management plan should specify stakeholder requirements, and the stakeholder register can expand on unique requests from specific people.
+
+• Potential management strategies for each stakeholder: This critical section can contain very sensitive information.
+
+• Methods for updating the stakeholder management plan: All plans need some process for handling changes and updates. Flexibility would be important as stakeholders change on the project.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.546
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.98 - LO: 13-3
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Stakeholder Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 4:31 PM
+
+
+
