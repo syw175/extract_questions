@@ -8,22 +8,19 @@ def find_questions(questions_list, topic):
 # COPY and PASTE contents of word file into text file
 # Change 'Ch11.txt' into 'filename.txt', LEAVE THE APOSTROPHES
 # Make sure first line of file is question #1 or else it won't work
-file_name = 'Ch10.txt'
+file_name = 'Ch2.txt'
+
 
 # CHANGE i_want_this_topic to the desired topic or header
-# ENSURE capitalization is correct, otherwise it won't work
-# ENSURE that it is an actual topic, NOT a SUB-TOPIC
 # EXAMPLE: "Common Sources Of Risk On IT Projects"
 # Project Phases and the Project Life Cycle
 
-i_want_these_topics = ['The Importance Of Project Communications Management',
-                       'Keys To Good Communications',
-                       'Planning Communications Management',
-                       'Managing Communications',
-                       'Suggestions For Improving Project Communications',
-                       'Using Software To Assist In Project Communications']
+i_want_these_topics = ['Project Phases and the Project Life Cycle',
+                       'The Context of Information Technology Projects',
+                       'Recent Trends Affecting Information Technology Project Management']
 
 
+new_file = open("your_topic.txt", 'w')
 f = open(file_name, 'r')
 # Initialize list of question numbers
 num_list = []
@@ -47,4 +44,5 @@ for line in f:
 for elem in i_want_these_topics:
     exam_questions = find_questions(question_list, elem)
     for questions in exam_questions:
+        new_file.write(questions)
         print(questions)
