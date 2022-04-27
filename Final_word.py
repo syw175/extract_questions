@@ -1,3 +1,11 @@
+# Program: Test bank question extractor
+# Author: Steven Wong
+# Date: April 26, 2022
+# Description: Extracts questions from test bank with the desired topics
+# Instructions: Copy contains of test bank chapter into a textfile. Change file_name variable below
+# Change i_want_these_topics to desired topic questions to extract
+
+
 def find_questions(questions_list, topic):
     desired_questions = []
     for question in questions_list:
@@ -5,16 +13,13 @@ def find_questions(questions_list, topic):
             desired_questions.append(question)
     return desired_questions
 
-# COPY and PASTE contents of word file into text file
-# Change 'Ch11.txt' into 'filename.txt', LEAVE THE APOSTROPHES
-# Make sure first line of file is question #1 or else it won't work
-file_name = 'Ch2.txt'
+# CHANGE 'sample.txt' into 'your_textfile_name.txt'
+# EXAMPLE: 'sample.txt' -> 'Ch2.txt'
+file_name = 'sample.txt'
 
 
-# CHANGE i_want_this_topic to the desired topic or header
+# CHANGE i_want_this_topic to the desired topics
 # EXAMPLE: "Common Sources Of Risk On IT Projects"
-# Project Phases and the Project Life Cycle
-
 i_want_these_topics = ['Project Phases and the Project Life Cycle',
                        'The Context of Information Technology Projects',
                        'Recent Trends Affecting Information Technology Project Management']
@@ -22,7 +27,7 @@ i_want_these_topics = ['Project Phases and the Project Life Cycle',
 
 new_file = open("your_topic.txt", 'w')
 f = open(file_name, 'r')
-# Initialize list of question numbers
+
 num_list = []
 for k in range(1, 99):
     string = str(k) + "."
