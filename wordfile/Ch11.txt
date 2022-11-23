@@ -1,0 +1,1389 @@
+1. Risks can have both negative and positive effects on meeting project objectives.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Project risk management involves understanding potential problems that might occur on the project and how they might impede project success. However, there are also positive risks or opportunities, which can result in good outcomes for a project.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.468
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+2. One possible response to managing negative risk it to accept the potential effects from the risk.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: There are a number of possible actions that project managers can take to avoid, lessen, change or accept the potential effects of risk on their projects.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.468
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+3. A risk-seeking person prefers outcomes that are more uncertain and is often willing to pay a penalty to take risks.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: A risk-seeking person prefers outcomes that are more uncertain and is often willing to pay a penalty to take risks.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.469
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+4. Unknown risks can be managed proactively.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Known risks can be managed proactively. However, unknown risks, or risks that have not been identified and analyzed, cannot be managed.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.470
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+5. The last step in project risk management is deciding how to address the knowledge area for a particular project by performing risk management planning.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: The first step in project risk management is deciding how to address the knowledge area for a particular project by performing risk management planning.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.472
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 3:10 PM
+
+
+6. Contingency plans are predefined actions that the project team will take if an identified risk event occurs.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Contingency plans are predefined actions that the project team will take if an identified risk event occurs.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.472
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.78 - LO: 11-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Common Sources Of Risk On IT Projects
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+7. Brainstorming is a systematic, interactive forecasting procedure based on independent and anonymous input regarding future events.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Brainstorming is a technique by which a group attempts to generate ideas or find a solution for a specific problem by amassing ideas spontaneously and without judgment. The Delphi technique is a systematic, interactive forecasting procedure based on independent and anonymous input regarding future events.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.477
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+8. The psychology literature shows that individuals, working alone, produce fewer ideas than the same individuals produce through brainstorming in small, face-to-face groups.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Although businesses use brainstorming widely to generate new ideas, the psychology literature shows that individual people working alone produce a greater number of ideas than they produce through brainstorming in small, face-to-face groups.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.477
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+9. The Delphi technique is a systematic, interactive forecasting procedure based on independent and anonymous input regarding future events.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: The Delphi technique is an approach to gathering information that helps prevent some of the negative group effects found in brainstorming. The basic concept of the Delphi technique is to derive a consensus among a panel of experts who make predictions about future developments.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.478
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+10. Risk events refer to specific, certain events that may occur to the detriment or enhancement of the project.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Risk events refer to specific, uncertain events that may occur to the detriment or enhancement of the project.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.478-479
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+11. A probability/impact matrix or chart lists the relative probability of a risk occurring on one side of a matrix or axis on a chart and the relative impact of the risk occurring on the other.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: A project manager can chart the probability and impact of risks on a probability/impact matrix or chart, which lists the relative probability of a risk occurring and the relative impact of the risk occurring.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.481
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.80 - LO: 11-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Qualitative Risk Analysis
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+12. Top Ten Risk Item Tracking is a quantitative risk analysis tool.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Top Ten Risk Item Tracking is a qualitative risk analysis tool.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.483
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.80 - LO: 11-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Qualitative Risk Analysis
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+13. The main output of qualitative risk analysis is updating the risk register.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: The main output of qualitative risk analysis is updating the risk registers.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.484
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.80 - LO: 11-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Qualitative Risk Analysis
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 5:18 PM
+
+
+14. Large, complex projects involving leading-edge technologies often require extensive quantitative risk analysis.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Large, complex projects involving leading-edge technologies often require extensive quantitative risk analysis.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.485
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.81 - LO: 11-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Performing Quantitative Risk Analysis
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 3:17 PM
+
+
+15. The lower the earned monetary value calculation for a project, the chances of project success is higher.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Expected monetary value (EMV) is the product of a risk event probability and the risk event’s monetary value. Because the EMV provides an estimate for the total dollar value of a decision, you want to have a positive number; the higher the EMV, the better.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.486
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.81 - LO: 11-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Performing Quantitative Risk Analysis
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+16. The Monte Carlo analysis can predict the probability of finishing by a certain date or the probability that the cost will be equal to or less than a certain value.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Monte Carlo analysis simulates a model’s outcome many times to provide a statistical distribution of the calculated results. This analysis can predict the probability of finishing by a certain date or the probability that the cost will be equal to or less than a certain value.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.487
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.81 - LO: 11-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Performing Quantitative Risk Analysis
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+17. Identified risks may not materialize, or their probabilities of occurrence or loss may diminish.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Identified risks may not materialize, or their probabilities of occurrence or loss may diminish. 
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.493
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.82 - LO: 11-8
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Controlling Risks
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 3:18 PM
+
+
+18. The risk register can be created with a simple Microsoft Word or Excel file.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: The risk register is often a simple Microsoft Word or Excel file, but it can also be part of a more sophisticated database.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.494
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.83 - LO: 11-9
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Using Software To Assist In Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+Multiple Choice
+
+19. Risk utility rises at a decreasing rate for a _____ person.
+ 	a. 	risk-seeking	b. 	risk-averse
+ 	c. 	risk-neutral	d. 	risk-indifferent
+ANSWER:  	b
+RATIONALE:  	Feedback: Utility rises at a decreasing rate for a risk-averse person. In other words, when more payoff or money is at stake, a person or organization that is risk-averse gains less satisfaction from the risk, or has lower tolerance for the risk.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.469
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:04 PM
+
+
+20. Those who are _____ have a higher tolerance for risk, and their satisfaction increases when more payoff is at stake.
+ 	a. 	risk-seeking	b. 	risk-averse
+ 	c. 	risk-neutral	d. 	risk-indifferent
+ANSWER:  	a
+RATIONALE:  	Feedback: Those who are risk-seeking have a higher tolerance for risk, and their satisfaction increases when more payoff is at stake. A risk-seeking person prefers outcomes that are more uncertain and is often willing to pay a penalty to take risks.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.469
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+21. Which type of person achieves a balance between risk and payoff?
+ 	a. 	risk-seeking	b. 	risk-averse
+ 	c. 	risk-fearing	d. 	risk-neutral
+ANSWER:  	d
+RATIONALE:  	Feedback: A risk-neutral person achieves a balance between risk and payoff. This person would evaluate decisions using a number of factors—risk is just one of them.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.469
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+22. What process involves deciding how to approach and plan the risk management activities for the project?
+ 	a. 	identifying risks	b. 	planning risk management
+ 	c. 	performing qualitative risk analysis	d. 	performing quantitative risk analysis
+ANSWER:  	b
+RATIONALE:  	Feedback: Planning risk management involves deciding how to approach and plan risk management activities for the project.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.470
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+23. The main outputs of which process include a risk register, risk report, and project documents updates?
+ 	a. 	identifying risks 	b. 	planning risk management
+ 	c. 	planning risk response	d. 	monitoring risk
+ANSWER:  	a
+RATIONALE:  	Feedback: Identifying risks involves determining which risks are likely to affect a project and documenting the characteristics of each. The main outputs of this process are a risk register, risk report, and project documents updates.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.470
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+24. Which process involves determining what risks are likely to affect a project and documenting the characteristics of each?
+ 	a. 	identifying risks	b. 	planning risk management
+ 	c. 	performing qualitative risk analysis	d. 	performing quantitative risk analysis
+ANSWER:  	a
+RATIONALE:  	Feedback: Identifying risks involves determining what risks are likely to affect a project and documenting the characteristics of each. The main output of this process is the start of a risk register.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.470
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/8/2018 7:44 PM
+
+
+25. Which process involves prioritizing risks based on their probability and impact of occurrence?
+ 	a. 	performing qualitative risk analysis	b. 	identifying risks
+ 	c. 	planning risk responses	d. 	performing quantitative risk analysis
+ANSWER:  	a
+RATIONALE:  	Feedback: Performing qualitative risk analysis involves prioritizing risks based on their probability and impact of occurrence. After identifying risks, project teams can use various tools and techniques to rank risks and update information in the risk register.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.470
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+26. Which process involves numerically estimating the effects of risks on project objectives?
+ 	a. 	performing qualitative risk analysis	b. 	planning risk responses
+ 	c. 	identifying risks	d. 	performing quantitative risk analysis
+ANSWER:  	d
+RATIONALE:  	Feedback: Performing quantitative risk analysis involves numerically estimating the effects of risks on project objectives.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.470
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+27. Which process involves taking steps to enhance opportunities and reduce threats to meeting project objectives?
+ 	a. 	performing quantitative risk analysis	b. 	planning risk responses
+ 	c. 	controlling risk	d. 	performing qualitative risk analysis
+ANSWER:  	b
+RATIONALE:  	Feedback: Planning risk responses involves taking steps to enhance opportunities and reduce threats to meeting project objectives.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.470
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+28. Which process involves monitoring identified and residual risks, identifying new risks, carrying out risk response plans, and evaluating the effectiveness of risk strategies throughout the life of the project?
+ 	a. 	performing quantitative risk analysis	b. 	planning risk responses
+ 	c. 	monitoring risk	d. 	performing qualitative risk analysis
+ANSWER:  	c
+RATIONALE:  	Feedback: Monitoring risk involves monitoring identified and residual risks, identifying new risks, carrying out risk response plans, and evaluating the effectiveness of risk strategies throughout the life of the project.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.471
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 3:20 PM
+
+
+29. _____ are predefined actions that the project team will take if an identified risk event occurs.
+ 	a. 	Secondary risks	b. 	Workarounds
+ 	c. 	Contingency plans	d. 	Management reserves
+ANSWER:  	c
+RATIONALE:  	Feedback: Contingency plans are predefined actions that the project team will take if an identified risk event occurs.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.472
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.84 - LO: 11-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+30. Unenforceable conditions or contract clauses and adversarial relations are risk conditions associated with the project _____ management knowledge area.
+ 	a. 	integration	b. 	quality
+ 	c. 	procurement	d. 	human resources
+ANSWER:  	c
+RATIONALE:  	Feedback: Unenforceable conditions or contract clauses, and adversarial relations are risk conditions associated with the project procurement management knowledge area.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.476
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.78 - LO: 11-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Common Sources Of Risk On IT Projects
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+31. Which is a fact-finding technique that can be used for collecting information in face-to-face, phone, e-mail, or instant-messaging discussions?
+ 	a. 	brainstorming	b. 	Monte Carlo analysis
+ 	c. 	the Delphi technique	d. 	interviewing
+ANSWER:  	d
+RATIONALE:  	Feedback: Interviewing is a fact-finding technique for collecting information in face-to-face, phone, e-mail, or instant-messaging discussions. Interviewing people with similar project experience is an important tool for identifying potential risks.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.478
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/8/2018 7:30 PM
+
+
+32. Which document contains results of various risk management processes; it is often displayed in a table or spreadsheet format?
+ 	a. 	risk register 	b. 	influence diagram
+ 	c. 	process flow chart	d. 	work breakdown structure
+ANSWER:  	a
+RATIONALE:  	Feedback: A risk register is a document that contains results of various risk management processes; it is often displayed in a table or spreadsheet format. 
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.478
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 3:20 PM
+
+
+33. The _____ lists the relative probability of a risk occurring and the relative impact of the risk occurring.
+ 	a. 	Top Ten Risk Item Tracking chart	b. 	requirements traceability matrix
+ 	c. 	probability/impact matrix	d. 	expectations management matrix
+ANSWER:  	c
+RATIONALE:  	Feedback: A project manager can chart the probability and impact of risks on a probability/impact matrix or chart, which lists the relative probability of a risk occurring and the relative impact of the risk occurring.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.481
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.80 - LO: 11-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Quantitative Risk Analysis
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+34. _____ is a qualitative risk analysis tool that maintains an awareness of risks throughout the life of a project in addition to identifying risks.
+ 	a. 	A SharePoint portal	b. 	A probability/impact matrix or chart
+ 	c. 	An expectations management matrix	d. 	Top Ten Risk Item Tracking
+ANSWER:  	d
+RATIONALE:  	Feedback: Top Ten Risk Item Tracking is a qualitative risk analysis tool. In addition to identifying risks, it maintains an awareness of risks throughout the life of a project by helping to monitor risks.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.483
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.80 - LO: 11-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Qualitative Risk Analysis
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 5:25 PM
+
+
+35. Identifying risks is a subprocess of the _____ process of project risk management.
+ 	a. 	planning	b. 	executing
+ 	c. 	monitoring and controlling	d. 	closing
+ANSWER:  	a
+RATIONALE:  	Feedback: Identifying risks is a subprocess of the planning process of project risk management.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.470
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+36. Which process involves prioritizing risks based on their probability of occurrence and impact?
+ 	a. 	performing qualitative risk analysis 	b. 	planning risk management
+ 	c. 	monitoring and controlling risks 	d. 	project closing 
+ANSWER:  	a
+RATIONALE:  	Feedback: Performing qualitative risk analysis involves prioritizing risks based on their probability of occurrence and impact.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.470
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+37. Which diagramming technique is used to help select the best course of action in situations in which future outcomes are uncertain?
+ 	a. 	decision tree	b. 	activity-on-arrow
+ 	c. 	workaround	d. 	backward pass
+ANSWER:  	a
+RATIONALE:  	Feedback: A decision tree is a diagramming analysis technique used to help select the best course of action when future outcomes are uncertain. A common application of decision tree analysis involves calculating expected monetary value.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.485
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.81 - LO: 11-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Quantitative Risk Analysis
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+38. Which analysis technique simulates a model’s outcome many times to provide a statistical distribution of the calculated results?
+ 	a. 	sensitivity	b. 	systems
+ 	c. 	Monte Carlo	d. 	NPV
+ANSWER:  	c
+RATIONALE:  	Feedback: Monte Carlo analysis simulates a model’s outcome many times to provide a statistical distribution of the calculated results.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.487
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.81 - LO: 11-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Quantitative Risk Analysis
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+39. What is the first step in a Monte Carlo analysis?
+ 	a. 	Determine the probability distribution of each variable.	b. 	For each variable, such as the time estimate for a task, select a random value based on the probability distribution for the occurrence of the variable.
+ 	c. 	Collect the most likely, optimistic, and pessimistic estimates for the variables in the model.	d. 	Run a deterministic analysis or one pass through the model using the combination of values selected for each one of the variables.
+ANSWER:  	c
+RATIONALE:  	Feedback: The first step in Monte Carlo analysis if to collect the most likely, optimistic, and pessimistic estimates for the variables in the model.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.487
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.81 - LO: 11-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Performing Quantitative Risk Analysis
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 3:22 PM
+
+
+40. Which technique is used to show the effects of changing one or more variables on an outcome?
+ 	a. 	sensitivity analysis	b. 	decision tree
+ 	c. 	Monte Carlo analysis	d. 	systems analysis
+ANSWER:  	a
+RATIONALE:  	Feedback: A sensitivity analysis is a technique used to show the effects of changing one or more variables on an outcome.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.489
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.81 - LO: 11-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Quantitative Risk Analysis
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+41. Which action involves eliminating a specific threat, usually by eliminating its causes?
+ 	a. 	risk avoidance	b. 	risk acceptance
+ 	c. 	risk transference	d. 	risk mitigation
+ANSWER:  	a
+RATIONALE:  	Feedback: Risk avoidance involves eliminating a specific threat, usually by eliminating its causes.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.491
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+42. Which action involves reducing the impact of a risk event by reducing the probability of its occurrence?
+ 	a. 	risk avoidance	b. 	risk acceptance
+ 	c. 	risk transference	d. 	risk mitigation
+ANSWER:  	d
+RATIONALE:  	Feedback: Risk mitigation involves reducing the impact of a risk event by reducing the probability of its occurrence.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.491
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+43. Which action involves doing whatever you can to make sure the positive risk happens?
+ 	a. 	risk exploitation	b. 	risk sharing
+ 	c. 	risk enhancement	d. 	risk acceptance
+ANSWER:  	a
+RATIONALE:  	Feedback: Risk exploitation involves doing whatever you can to make sure the positive risk happens.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.491
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+44. Which action involves shifting the consequence of a risk and responsibility for its management to a third party?
+ 	a. 	risk avoidance	b. 	risk acceptance
+ 	c. 	risk transference	d. 	risk mitigation
+ANSWER:  	c
+RATIONALE:  	Feedback: Risk transference involves shifting the consequence of a risk and responsibility for its management to a third party.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.491
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+45. Which action involves allocating ownership of the risk to another party?
+ 	a. 	risk exploitation	b. 	risk sharing
+ 	c. 	risk enhancement	d. 	risk acceptance
+ANSWER:  	b
+RATIONALE:  	Feedback: Risk sharing involves allocating ownership of the risk to another party.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.492
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+46. Which action involves changing the size of the opportunity by identifying and maximizing key drivers of the positive risk?
+ 	a. 	risk exploitation	b. 	risk sharing
+ 	c. 	risk enhancement	d. 	risk acceptance
+ANSWER:  	c
+RATIONALE:  	Feedback: Risk enhancement involves changing the size of the opportunity by identifying and maximizing key drivers of the positive risk.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.492
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+47. Which action applies to positive risks when the project team cannot or chooses not to take any actions toward a risk?
+ 	a. 	risk enhancement	b. 	risk acceptance
+ 	c. 	risk sharing	d. 	risk exploitation
+ANSWER:  	b
+RATIONALE:  	Feedback: Risk acceptance applies to positive risks when the project team cannot or chooses not to take any actions toward a risk.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.492
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+48. Which risks are direct results of implementing risk responses?
+ 	a. 	architectural	b. 	primary
+ 	c. 	residual	d. 	secondary
+ANSWER:  	d
+RATIONALE:  	Feedback: Secondary risks are a direct result of implementing a risk response.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.493
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+49. _____ are unplanned responses to risk events used when project teams do not have contingency plans in place.
+ 	a. 	Workarounds	b. 	Fallback plans
+ 	c. 	Contingency plans	d. 	Triggers
+ANSWER:  	a
+RATIONALE:  	Feedback: Workarounds are unplanned responses to risk events used when project teams do not have contingency plans in place.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.494
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.82 - LO: 11-8
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Controlling Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+Completion
+
+50. Potential problems that might occur on the project and how they might impede project success are _____ risks.
+ANSWER:  	negative
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.468
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+51. A project _____ is an uncertainty that can have a negative or positive effect on meeting project objectives.
+ANSWER:  	risk
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.468
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+52. _____ is the amount of satisfaction or pleasure received from a potential payoff.
+ANSWER:  	Risk utility
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.469
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+53. Risk utility rises at a decreasing rate for a(n) _____ person.
+ANSWER:  	risk-averse
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.469
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+54. The term _____ is used to describe risks that the project team has identified and analyzed.
+ANSWER:  	known risks
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.470
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+55. One main output of the _____ process is a risk register.
+ANSWER:  	identifying risks
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.470
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+56. A(n) _____ documents the procedures for managing risk throughout the project.
+ANSWER:  	risk management plan
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.472
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.84 - LO: 11-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+57. A(n) _____ is a hierarchy of potential risk categories for a project.
+ANSWER:  	risk breakdown structure
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.474-475
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.78 - LO: 11-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Common Sources Of Risk On IT Projects
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+58. _____ is the process of understanding what potential events might hurt or enhance a particular project.
+ANSWER:  	Identifying risks
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.477
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+59. _____ is a technique by which a group attempts to generate ideas or find a solution for a specific problem by amassing ideas spontaneously and without judgment.
+ANSWER:  	Brainstorming
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.477
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+60. The basic concept of the _____ technique is to derive a consensus among a panel of experts who make predictions about future developments.
+ANSWER:  	Delphi
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.477-478
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+61. _____ is a fact-finding technique for collecting information in face-to-face, phone, e-mail, or virtual discussions.
+ANSWER:  	Interviewing 
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.478
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+62. A(n) _____ is a document that contains results of various risk management processes.
+ANSWER:  	risk register
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.478
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+63. _____ are indicators or symptoms of actual risk events.
+ANSWER:  	Triggers
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.479
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+64. The _____ is the person who will own or take responsibility for the risk.
+ANSWER:  	risk owner
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.480
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+65. _____ are numbers that represent the overall risk of specific events, based on their probability of occurring and the consequences to the project if they do occur.
+ANSWER:  	Risk factors
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.482
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.80 - LO: 11-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Qualitative Risk Analysis
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+66. The main output of qualitative risk analysis is updating the _____. 
+.
+ANSWER:  	risk register
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.484
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.80 - LO: 11-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Qualitative Risk Analysis
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 3:26 PM
+
+
+67. A(n) _____ is a list of risks that are low priority, but are still identified as potential risks.
+ANSWER:  	watch list
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.484
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.80 - LO: 11-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Qualitative Risk Analysis
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+68. _____ is the product of a risk event probability and the risk event’s monetary value.
+ANSWER:  	EMV
+Expected monetary value
+Expected monetary value (EMV)
+EMV (Expected monetary value)
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.486
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.81 - LO: 11-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Performing Quantitative Risk Analysis
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+69. _____ are funds included in the cost baseline that can be used to mitigate cost or schedule overruns if known risks occur.
+ANSWER:  	Contingency reserves
+Contingency allowances
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.472
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.84 - LO: 11-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+70. _____ helps professionals to see the effects of changing one or more variables on an outcome.
+ANSWER:  	Sensitivity analysis
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.489
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.81 - LO: 11-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Performing Quantitative Risk Analysis
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+71. _____ involves accepting the consequences should a risk occur.
+ANSWER:  	Risk acceptance
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.491
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+72. Risk _____ refers to reducing the impact of a risk event by reducing the probability of its occurrence.
+ANSWER:  	mitigation
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.491
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+73. _____ risks are risks that remain after all of the response strategies have been implemented.
+ANSWER:  	Residual
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.493
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+74. Project teams sometimes use _____, which are unplanned responses to risk events, when they do not have contingency plans in place.
+ANSWER:  	workarounds
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.494
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.82 - LO: 11-8
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Controlling Risks
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+Essay
+
+75. List and briefly describe the major processes involved in risk management.
+ANSWER:  	Planning risk management involves deciding how to approach and plan risk management activities for the project. The main output of this process is a risk management plan.
+
+Identifying risks involves determining which risks are likely to affect a project and documenting the characteristics of each. The main outputs of this process are a risk register, risk report, and project documents updates.
+
+Performing qualitative risk analysis involves prioritizing risks based on their probability of occurrence and impact. After identifying risks, project teams can use various tools and techniques to rank risks and update information in the risk register. The main outputs are project documents updates.
+
+Performing quantitative risk analysis involves numerically estimating the effects of risks on project objectives. The main outputs of this process are project documents updates.
+
+Planning risk responses involves taking steps to enhance opportunities and reduce threats to meeting project objectives. Using outputs from the preceding risk management processes, project teams can develop risk response strategies that often result in change requests, updates to the project management plan and project documents.
+
+Implementing risk responses, just as it sounds, involves implementing the risk response plans. Outputs include change requests and project documents updates.
+
+Monitoring risk involves monitoring identified and residual risks, identifying new risks, carrying out risk response plans, and evaluating the effectiveness of risk strategies throughout the life of the project. The main outputs of this process include work performance information, change requests, and updates to the project management plan, project documents, and organizational process assets.
+
+
+
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.470-471
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.77 - LO: 11-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance Of Project Risk Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+76. List and briefly describe four methods for identifying risks.
+ANSWER:  	Brainstorming: technique by which a group attempts to generate ideas or find a solution for a specific problem by amassing ideas spontaneously and without judgment. This approach can help the group create a comprehensive list of risks to address later in the qualitative and quantitative risk analysis processes. An experienced facilitator should run the brainstorming session and introduce new categories of potential risks to keep the ideas flowing. After the ideas are collected, the facilitator can group and categorize the ideas to make them more manageable.
+
+Delphi technique: approach to gathering information that helps prevent some of the negative group affects found in brainstorming is the Delphi Technique. The basic concept of the Delphi Technique is to derive a consensus among a panel of experts who make predictions about future developments. The Delphi Technique uses repeated rounds of questioning and written responses, including feedback to earlier-round responses, to take advantage of group input, while avoiding the biasing effects possible in oral panel deliberations. To use the Delphi Technique, you must select a panel of experts for the particular area in question.
+
+Interviewing: fact-finding technique for collecting information in face-to-face, phone, e-mail, or instant-messaging discussions. Interviewing people with similar project experience is an important tool for identifying potential risks.
+
+Root cause analysis: used to identify the root cause of a problem or opportunity; often results in identifying even more potential risks for a project.
+
+SWOT analysis: analysis of strengths, weaknesses, opportunities, and threats, which is often used in strategic planning; used during risk identification by having project teams focus on the broad perspectives of potential risks for particular projects. Applying SWOT to specific potential projects can help identify the broad risks and opportunities that apply in that scenario.
+
+
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.477-478
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.79 - LO: 11-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Identifying Risks
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+77. Explain decision trees and expected monetary value.
+ANSWER:  	A decision tree is a diagramming analysis technique used to help select the best course of action in situations in which future outcomes are uncertain. A common application of decision tree analysis involves calculating expected monetary value. Expected monetary value (EMV) is the product of a risk event probability and the risk event’s monetary value. To create a decision tree, and to calculate expected monetary value specifically, you must estimate the probabilities, or chances, of certain events occurring. Probabilities are normally determined based on expert judgment.
+
+To calculate the expected monetary value (EMV) for each project, multiply the probability by the outcome value for each potential outcome for each project and sum the results. Because the EMV provides an estimate for the total dollar value of a decision, you want to have a positive number; the higher the EMV, the better. Using EMV helps account for all possible outcomes and their probabilities of occurrence, thereby reducing the tendency to pursue overly aggressive or conservative risk strategies.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.485-487
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.81 - LO: 11-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Performing Qualitative Risk Analysis
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+78. Explain the basic steps involved in performing a Monte Carlo analysis.
+ANSWER:  	(1) Collect the most likely, optimistic, and pessimistic estimates for the variables in the model. For example, if you are trying to determine the likelihood of meeting project schedule goals, the project network diagram would be your model. You would collect the most likely, optimistic, and pessimistic time estimates for each task. Notice that this step is similar to collecting data for performing PERT estimates. However, instead of applying the same PERT weighted average formula, you perform the following steps in a Monte Carlo simulation.
+
+(2) Determine the probability distribution of each variable. What is the likelihood of that variable falling between the optimistic and most likely estimates? For example, if an expert assigned to do a particular task provides a most likely estimate of ten weeks, an optimistic estimate of eight weeks, and a pessimistic estimate of fifteen weeks, you then ask what the probability is of completing that task between eight and ten weeks. The expert might respond that there is a 20 percent probability.
+
+(3) For each variable, such as the time estimate for a task, select a random value based on the probability distribution for the occurrence of the variable. For example, using the above scenario, you would randomly pick a value between eight weeks and ten weeks 20 percent of the time and a value between ten weeks and fifteen weeks 80 percent of the time.
+
+(4) Run a deterministic analysis or one pass through the model using the combination of values selected for each one of the variables. For example, the one task described above might have a value of 12 on the first run. All of the other tasks would have one random value assigned to them on that first run, also, based on their estimates and probability distributions.
+
+(5) Repeat Steps 3 and 4 many times to obtain the probability distribution of the model’s results. The number of iterations depends on the number of variables and the degree of confidence required in the results, but it typically lies between 100 and 1,000. Using the project schedule as an example, the final simulation results will show you the probability of completing the entire project within a certain time period.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.487-488
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.81 - LO: 11-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Performing Quantitative Risk Analysis
+KEYWORDS:  	Bloom's:Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+79. What are the basic response strategies for negative risks? Describe each strategy.
+ANSWER:  	Risk avoidance or eliminating a specific threat, usually by eliminating its causes. Of course, not all risks can be eliminated, but specific risk events can be. For example, a project team may decide to continue using a specific piece of hardware or software on a project because they know it works. Other products that could be used on the project may be available, but if the project team is unfamiliar with them, they could cause significant risk. Using familiar hardware or software eliminates this risk.
+
+Risk acceptance or accepting the consequences should a risk occur. For example, a project team planning a big project review meeting could take an active approach to risk by having a contingency or backup plan and contingency reserves if they cannot get approval for a specific site for the meeting. On the other hand, they could take a passive approach and accept whatever facility their organization provides.
+
+Risk transference or shifting the consequence of a risk and responsibility for its management to a third party. For example, risk transference is often used in dealing with financial risk exposure. A project team may purchase special insurance or warranty protection for specific hardware needed for a project. If the hardware fails, the insurer must replace it within an agreed-upon period of time.
+
+Risk mitigation or reducing the impact of a risk event by reducing the probability of its occurrence. Suggestions for reducing common sources of risk on information technology projects were provided at the beginning of this chapter. Other examples of risk mitigation include using proven technology, having competent project personnel, using various analysis and validation techniques, and buying maintenance or service agreements from subcontractors.
+
+Risk escalation or notifying a higher level authority. If the risk is outside of the scope of the project or the proposed response is outside of the project manager’s authority, it would make sense to escalate the risk to a higher-level manager within the organization.
+
+
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.491
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.85 - LO: 11-7
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Risk Responses
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 1:05 PM
+
+
+

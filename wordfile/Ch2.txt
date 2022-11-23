@@ -1,0 +1,1518 @@
+1. Project managers should lead projects in isolation in order to truly serve the needs of the organization.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Even though projects are temporary and intended to provide a unique product or service, you cannot run projects in isolation. If project managers lead projects in isolation, it is unlikely that they will ever truly serve the needs of the organization.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.49
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+2. Using a systems approach is critical to successful project management.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Using a systems approach is critical to successful project management. If top management and project managers are to understand how projects relate to the whole organization, they must follow a systems philosophy.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.49
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 7:23 PM
+
+
+3. Systems analysis addresses the business, technological, and organizational issues associated with creating, maintaining, and modifying a system.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Systems management addresses the business, technological, and organizational issues associated with creating, maintaining, and modifying a system.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p. 49
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: o Reflective Thinking - BUSPROG: Analytic skills: Statistics and Management Science
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 7:24 PM
+
+
+4. Project managers and their teams must recognize the effects of any project on the interests and needs of the entire system or organization instead of focusing on the immediate concerns of the project.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Although it is easier to focus on the immediate and sometimes narrow concerns of a particular project, project managers and other staff must recognize the effects of any project on the interests and needs of the entire system or organization.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.50
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 7:26 PM
+
+
+5. When you separate business and organizational issues from project management planning, you do a better job of ensuring project success.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: When you integrate business and organizational issues into project management planning and look at projects as a series of interrelated phases, you do a better job of ensuring project success.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.51
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+6. According to the symbolic frame, the most important aspect of any event in an organization is not what actually happened, but what it means.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: The symbolic frame focuses on symbols and meanings. In this frame, the most important aspect of any event in an organization is not what actually happened, but what it means.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.53
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+7. Most colleges and universities have very strong functional organizations.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: most colleges and universities have very strong functional organizations. Only faculty members in the business department teach business courses; faculty in the history department teach history; faculty in the art department teach art, and so on.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.54
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 7:31 PM
+
+
+8. An organization that uses a project organizational structure earns their revenue primarily from performing projects for other groups under contract.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: A project organizational structure is hierarchical, but instead of functional managers or vice presidents reporting to the CEO, program managers report to the CEO. Their staffs have a variety of skills needed to complete the projects within their programs. An organization that uses this structure earns its revenue primarily from performing projects for other groups under contract.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.54
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+9. Project managers in matrix organizations have staff from various functional areas working on their projects.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Project managers in matrix organizations have staff from various functional areas working on their projects.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p. 55
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+10. The project organizational structure is the most efficient choice for most IT projects.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: The project organizational structure is often inefficient for the company as a whole.  Assigning staff full time to a project often creates underutilization and misallocation of staff resources.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p. 55
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 7:35 PM
+
+
+11. Most people believe that the underlying causes of many companies’ problems can be traced to its organizational structure.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Organizational culture is very powerful, and many people believe the underlying causes of many companies’ problems are not in the organizational structure or staff; they are in the culture.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.57
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+12. The same organization can have different subcultures.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: It is also important to note that the same organization can have different subcultures. The IT department may have a different organizational culture than the finance department, for example.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.57
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+13. An organizational culture with strong unit integration makes the project manager's job more difficult.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Most project managers strive for strong unit integration to deliver a successful product, service, or result. An organizational culture with strong unit integration makes the project manager's job easier.
+POINTS:  	1
+DIFFICULTY:  	Moderate
+REFERENCES:  	p.57
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: o Reflective Thinking - BUSPROG: Analytic skills: Statistics and Management Science
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/14/2018 9:58 AM
+
+
+14. Project work is most successful in an organizational culture where activities are organized around individuals.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Project work is most successful in organizations in which work activities are organized around groups or teams, rather than individuals. An organizational culture that emphasizes group work is best for managing projects.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.57
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+15. Internal stakeholders include groups affected by the project such as government officials or concerned citizens.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: External project stakeholders include the project’s customers (if they are external to the organization), competitors, suppliers, and other external groups potentially involved in the project or affected by it, such as government officials or concerned citizens.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.58
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.11 - LO: 2-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Focusing on Stakeholder Needs
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+16. Project managers must take adequate time to identify, understand, and manage relationships with all project stakeholders.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Because the purpose of project management is to meet project requirements and satisfy stakeholders, it is critical that project managers take adequate time to identify, understand, and manage relationships with all project stakeholders.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.58-59
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.11 - LO: 2-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Focusing on Stakeholder Needs
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+17. The best way to sustain a project is to withhold the required money, human resources, and visibility for the project.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: The best way to kill a project is to withhold the required money, human resources, and visibility.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.60
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.11 - LO: 2-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Focusing on Stakeholder Needs
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+18. Project managers must have cooperation from people in other parts of the organization.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Project managers must have cooperation from people in other parts of the organization. If certain functional managers are not responding to project managers’ requests for necessary information, top management must step in to encourage the functional managers to cooperate.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.60
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.11 - LO: 2-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Focusing on Stakeholder Needs
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+19. Standards and guidelines to follow when performing project management must be devised by top management.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: The content of a project management plan and instructions for providing status information might seem like common sense to senior managers, but many new IT project managers have never created plans or created a nontechnical status report. Top management must support the development of these standards and guidelines, and encourage or even enforce their use.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.62
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.11 - LO: 2-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Focusing on Stakeholder Needs
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+20. It is much more expensive to make major changes to a project during the earlier phases.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: In early phases of a project life cycle, resource needs are usually lowest and the level of uncertainty is highest. It is much more expensive to make major changes to a project during latter phases.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.63
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+21. The last phase of the traditional project life cycle is the implementation phase.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: The last phase of the traditional project life cycle is finishing the project. It focuses on ensuring that project requirements were met and that the project sponsor approves completion of the project.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.63
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 7:49 PM
+
+
+22. An organization usually commits more money as a project continues, therefore a management review should occur after each phase to evaluate progress, potential success, and continued compatibility with organizational goals.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Because the organization usually commits more money as a project continues, a management review should occur after each phase to evaluate progress, potential success, and continued compatibility with organizational goals.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.66
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+23. The nature of hardware development projects is more diverse than software-oriented projects.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: The nature of software development projects is even more diverse than hardware-oriented projects. A software development project might include creating a simple, stand-alone Microsoft Excel or Access application, or a sophisticated, global e-commerce system that uses state-of-the-art programming languages and runs on multiple platforms.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.67-68
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.13 - LO: 2-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Context of Information Technology Projects
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+24. The team members of a virtual team are all of the same nationality.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: A virtual team is a group of people who work together despite time and space boundaries using communication technologies. Team members might all work for the same company in the same country, or they might include employees as well as independent consultants, suppliers, or even volunteers providing their expertise from around the globe.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.71
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.14 - LO: 2-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Recent Trends Affecting Information Technology Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+25. Leadership style has no impact on the success of virtual teams.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: The project manager’s leadership style affects all teams, especially virtual ones.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.72
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.14 - LO: 2-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Recent Trends Affecting Information Technology Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+Multiple Choice
+
+26. Projects must operate in a broad organizational environment, and project managers need to consider projects within the greater organizational context. Which approach describes the holistic view of carrying out projects within the context of the organization?
+ 	a. 	Linear analysis	b. 	Systems thinking
+ 	c. 	Reductionism	d. 	The silo approach
+ANSWER:  	b
+RATIONALE:  	Feedback: To handle complex situations effectively, project managers need to take a holistic view of a project and understand how it relates to the larger organization. Systems thinking describes this holistic view of carrying out projects within the context of the organization.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.49
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:03 AM
+
+
+27. Which problem-solving approach requires defining the scope of a system, dividing it into its components, and then identifying and evaluating its problems, opportunities, constraints, and needs?
+ 	a. 	Linear programming	b. 	Independent component analysis
+ 	c. 	Principal component analysis	d. 	Systems analysis
+ANSWER:  	d
+RATIONALE:  	Feedback: Systems analysis is a problem-solving approach that requires defining the scope of the system, dividing it into components, and then identifying and evaluating its problems, opportunities, constraints, and needs.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.49
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 9:07 PM
+
+
+28. Which perspective of an organization focuses on different groups’ roles and responsibilities in order to meet the goals and policies set by top management?
+ 	a. 	Structural frame	b. 	Human resources frame
+ 	c. 	Political frame	d. 	Symbolic frame
+ANSWER:  	a
+RATIONALE:  	Feedback: The structural frame deals with how the organization is structured (usually depicted in an organizational chart) and focuses on different groups’ roles and responsibilities to meet the goals and policies set by top management. This frame is very rational and focuses on coordination and control.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.52
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 9:09 PM
+
+
+29. The _____ frame of an organization focuses on providing harmony between the needs of the organization and the needs of people.
+ 	a. 	structural	b. 	human resources
+ 	c. 	political	d. 	symbolic
+ANSWER:  	b
+RATIONALE:  	Feedback: The human resources (HR) frame focuses on producing harmony between the needs of the organization and the needs of people. It recognizes that mismatches can occur between the needs of the organization and those of individuals and groups, and works to resolve any potential problems.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.52
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+30. The symbolic perspective of an organization:
+ 	a. 	focuses on different groups’ roles and responsibilities to meet the goals and policies set by top management.
+ 	b. 	views the organization as coalitions composed of varied individuals and interest groups.
+ 	c. 	focuses on providing harmony between the needs of the organization and the needs of people.
+ 	d. 	focuses on the meanings of the culture, language, traditions, and image of the organization.
+ANSWER:  	d
+RATIONALE:  	Feedback: The symbolic frame focuses on symbols and meanings. In this frame, the most important aspect of any event in an organization is not what actually happened, but what it means.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.53
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:03 AM
+
+
+31. Which perspective on organizations assumes that organizations are coalitions composed of varied individuals and interest groups?
+ 	a. 	Political frame	b. 	Symbolic frame
+ 	c. 	Structural frame	d. 	Human resources frame
+ANSWER:  	a
+RATIONALE:  	Feedback: The political frame addresses organizational and personal politics. Politics in organizations take the form of competition among groups or individuals for power and leadership. The political frame assumes that organizations are coalitions composed of varied individuals and interest groups.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.52
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:04 AM
+
+
+32. Grey’s Infotech sells customized hardware and software solutions for businesses. The salespeople for Grey’s have a strict dress code when meeting clients. They are required to wear dark business suits, in order to convey the company’s dedication to quality. The meaning conveyed to the clients’ through the salespeople’s clothing is part of the _____ frame of the organization.
+ 	a. 	political	b. 	symbolic
+ 	c. 	structural	d. 	human resources
+ANSWER:  	b
+RATIONALE:  	Feedback: The symbolic frame focuses on symbols and meanings. In this frame, the most important aspect of any event in an organization is not what actually happened, but what it means. The symbolic frame also relates to the company’s culture. How do people dress? How many hours do they work? How do they run meetings?
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.53
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Application
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+33. In Rizzati Corp, vice presidents in departments such as engineering, manufacturing, IT, and human resources report directly to the chief executive officer and undertake their tasks independently of each other. The staffs of these departments have specialized skills in their respective disciplines. Which type of organizational structure does Rizatti Corp have?
+ 	a. 	Project	b. 	Symbolic
+ 	c. 	Matrix	d. 	Functional
+ANSWER:  	d
+RATIONALE:  	Feedback: A functional organizational structure is the hierarchy most people think of when picturing an organizational chart. Functional managers or vice presidents in specialties such as engineering, manufacturing, IT, and human resources report to the chief executive officer (CEO).
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.53-55
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analysis
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Application
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 10:46 PM
+
+
+34. In a _____organizational structure, program managers, rather than functional managers or vice presidents, report to the CEO. Their staffs have a variety of skills needed to complete all required tasks within their programs.
+ 	a. 	project	b. 	symbolic
+ 	c. 	matrix	d. 	functional
+ANSWER:  	a
+RATIONALE:  	Feedback: A project organizational structure also is hierarchical, but instead of functional managers or vice presidents reporting to the CEO, program managers report to the CEO.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.54
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+35. In a _____ organizational structure, personnel often report to both a functional manager and one or more project managers.
+ 	a. 	project	b. 	symbolic
+ 	c. 	matrix	d. 	functional
+ANSWER:  	c
+RATIONALE:  	Feedback: A matrix organizational structure represents the middle ground between functional and project structures. Personnel often report both to a functional manager and one or more project managers.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p. 55
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+36. In what type of organizational structure do project managers have the most authority?
+ 	a. 	Functional	b. 	Project
+ 	c. 	Matrix	d. 	Circular
+ANSWER:  	b
+RATIONALE:  	Feedback: Project managers have the most authority in a pure project organizational structure and the least amount of authority in a pure functional organizational structure.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.55
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 10:52 PM
+
+
+37. In what type of organizational structure do project managers have the least amount of authority?
+ 	a. 	Functional	b. 	Project
+ 	c. 	Matrix	d. 	Circular
+ANSWER:  	a
+RATIONALE:  	Feedback: Project managers have the most authority in a pure project organizational structure and the least amount of authority in a pure functional organizational structure.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	P.55
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 10:54 PM
+
+
+38. Which of the following is true of a matrix organizational structure?
+ 	a. 	In a matrix organizational structure, employees are organized into departments according to their skills, and there is little interaction between employees from different departments.
+ 	b. 	Project managers in matrix organizations have staff from only a single functional area working on their projects.
+ 	c. 	In a strong matrix organizational structure, the project manager controls the project budget and has moderate to high authority.
+ 	d. 	A matrix organizational structure is hierarchical, but instead of functional managers reporting to the CEO, program managers report to the CEO.
+ANSWER:  	c
+RATIONALE:  	Feedback: In a strong matrix organizational structure, the project manager controls the project budget and has moderate to high authority.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.56
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:05 AM
+
+
+39. _____ refers to a set of shared assumptions, values, and behaviors that characterize the functioning of an organization.
+ 	a. 	Chain of command	b. 	Line of control
+ 	c. 	Organizational culture	d. 	Organizational structure
+ANSWER:  	c
+RATIONALE:  	Feedback: Organizational culture is a set of shared assumptions, values, and behaviors that characterize the functioning of an organization. It often includes elements of the four frames.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.51
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+40. Which characteristic of organizational culture describes the degree to which management’s decisions take into account the effect of outcomes on people within the organization?
+ 	a. 	Member identity	b. 	Group emphasis
+ 	c. 	People focus	d. 	Unit integration
+ANSWER:  	c
+RATIONALE:  	Feedback: The people focus characteristic of organizational culture describes the degree to which management’s decisions take into account the effect of outcomes on people within the organization. Good project managers often balance the needs of individuals and the organization.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.57
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 10:59 PM
+
+
+41. Which characteristic of organizational culture refers to the degree to which employees identify with the organization as a whole, rather than with their types of job or profession?
+ 	a. 	Member identity	b. 	People focus
+ 	c. 	Group emphasis	d. 	Unit integration
+ANSWER:  	a
+RATIONALE:  	Feedback: Member identity refers to the degree to employees identify with the organization as a whole, rather than with their types of job or profession.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.57
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 11:02 PM
+
+
+42. Which characteristic of organizational culture refers to the degree to which departments within an organization are encouraged to coordinate with each other?
+ 	a. 	Member identity	b. 	People focus
+ 	c. 	Group emphasis	d. 	Unit integration
+ANSWER:  	d
+RATIONALE:  	Feedback: Unit integration refers to the degree to which units or departments within an organization are encouraged to coordinate with each other.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.57
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:06 AM
+
+
+43. In organizational culture, what does people focus refer to?
+ 	a. 	The degree to which the organization monitors and responds to changes in the external environment
+ 	b. 	The degree to which rules, policies, and direct supervision are used to oversee and control employee behavior
+ 	c. 	The degree to which management’s decisions take into account the effect of outcomes on employees within the organization
+ 	d. 	The degree to which employees are encouraged to be aggressive, innovative, and risk seeking
+ANSWER:  	c
+RATIONALE:  	Feedback: People focus refers to the degree to which management’s decisions take into account the effect of outcomes on people within the organization.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.57
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/14/2018 10:06 AM
+
+
+44. In organizational culture, what does means-end orientation refer to?
+ 	a. 	The degree to which the organization monitors and responds to changes in the external environment
+ 	b. 	The degree to which rules, policies, and direct supervision are used to oversee and control employee behavior
+ 	c. 	The degree to which management focuses on outcomes rather than on techniques and processes used to achieve results
+ 	d. 	The degree to which employees are encouraged to be aggressive, innovative, and risk seeking
+ANSWER:  	c
+RATIONALE:  	Feedback: Means-ends orientation refers to the degree to which management focuses on outcomes rather than on techniques and processes used to achieve results.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.58
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 11:08 PM
+
+
+45. Which characteristic of organizational culture refers to the degree to which the organization monitors and responds to changes in the external environment?
+ 	a. 	Means-ends orientation	b. 	Open-systems focus
+ 	c. 	Conflict tolerance	d. 	Risk tolerance
+ANSWER:  	b
+RATIONALE:  	Feedback: Open-systems focus refers to the degree to which the organization monitors and responds to changes in the external environment
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.58
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 11:10 PM
+
+
+46. In organizational culture, what does control refer to?
+ 	a. 	The degree to which the organization monitors and responds to changes in the external environment
+ 	b. 	The degree to which rules, policies, and direct supervision are used to oversee employee behavior
+ 	c. 	The degree to which management focuses on outcomes rather than on techniques and processes used to achieve results
+ 	d. 	The degree to which employees are encouraged to be aggressive, innovative, and risk seeking
+ANSWER:  	b
+RATIONALE:  	Feedback: Control refers to the degree to which rules, policies, and direct supervision are used to oversee and control employee behavior.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.58
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 11:11 PM
+
+
+47. Select an example of external stakeholders for an organization.
+ 	a. 	Top managers	b. 	Functional managers
+ 	c. 	Employees	d. 	Competitors
+ANSWER:  	d
+RATIONALE:  	Feedback: External project stakeholders include the project’s customers (if they are external to the organization), competitors, suppliers, and other external groups potentially involved in the project or affected by it, such as government officials or concerned citizens.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.58
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.11 - LO: 2-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Focusing on Stakeholder Needs
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 11:13 PM
+
+
+48. Which term refers to a product or service, such as a technical report, a training session, a piece of hardware, or a segment of software code, produced or provided as part of a project?
+ 	a. 	Deliverable	b. 	Input
+ 	c. 	System	d. 	Resource
+ANSWER:  	a
+RATIONALE:  	Feedback: A deliverable is a product or service, such as a technical report, a training session, a piece of hardware, or a segment of software code, produced or provided as part of a project.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.63
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:08 AM
+
+
+49. Which of the following is true of the project life cycle?
+ 	a. 	In the early phases of a project life cycle, resource needs are usually lowest.
+ 	b. 	In the later phases of the project life cycle, the level of uncertainty is usually the highest.
+ 	c. 	It is much more expensive to make major changes to a project during the earlier phases than the latter phases.
+ 	d. 	More resources are usually needed during the initial phases of a project than during the middle or final phases.
+ANSWER:  	a
+RATIONALE:  	Feedback: In the early phases of a project life cycle, resource needs are usually lowest and the level of uncertainty is highest.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.63
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:08 AM
+
+
+50. In which product life cycle the scope, schedule, and cost are determined early, and changes to scope are carefully managed?
+ 	a. 	Iterative	b. 	Incremental
+ 	c. 	Predictive	d. 	Adaptive
+ANSWER:  	c
+RATIONALE:  	Feedback: In the predictive life cycle the scope, schedule, and cost are determined early, and changes to scope are carefully managed. PMI also refers to predictive life cycles as waterfall.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.64
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic - Analytic
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 11:26 PM
+
+
+51. In which development life cycle do stakeholders define and approve the detailed scope before the start on an iteration?
+ 	a. 	Adaptive	b. 	Hybrid
+ 	c. 	Incremental	d. 	Iterative
+ANSWER:  	a
+RATIONALE:  	Feedback: In an adaptive life cycle: stakeholders define and approve the detailed scope before the start of an iteration, producing a useable product at the end of each iteration.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.64
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:10 AM
+
+
+52. Which approach to product development is currently used by many organizations so a predictive set of steps is used as an overall means to coordinate more detailed steps that are adaptively managed?
+ 	a. 	Adaptive	b. 	Hybrid
+ 	c. 	Predictive	d. 	Incremental
+ANSWER:  	b
+RATIONALE:  	Feedback: Many organizations today use a hybrid approach to product development where a predictive set of steps is used as an overall means to coordinate more detailed steps that are adaptively managed. Predictive and adaptive approaches are not a mutually exclusive choice.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.64
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 11:34 PM
+
+
+53. Which systems development life cycle model assumes that requirements will remain stable after they are defined?
+ 	a. 	Spiral life cycle	b. 	Waterfall life cycle
+ 	c. 	Prototyping life cycle	d. 	RAD life cycle
+ANSWER:  	b
+RATIONALE:  	Feedback: The waterfall life cycle model has well-defined, linear stages of systems analysis, design, construction, testing, and support. This life cycle model assumes that requirements will remain stable after they are defined.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.64
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 11:38 PM
+
+
+54. In which systems development life cycle do model developers use a model to generate functional requirements and physical design specifications simultaneously?
+ 	a. 	RAD life cycle	b. 	Prototyping life cycle
+ 	c. 	Spiral life cycle	d. 	Waterfall life cycle
+ANSWER:  	b
+RATIONALE:  	Feedback: The prototyping life cycle model is used for developing software prototypes to clarify user requirements for operational software. It requires heavy user involvement, and developers use a model to generate functional requirements and physical design specifications simultaneously. This approach is often used in systems that involve a great deal of user interface design, such as website projects.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.65
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: o Reflective Thinking - BUSPROG: Analytic skills: Statistics and Management Science
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:11 AM
+
+
+55. The _____ model uses an approach in which developers work with an evolving prototype, using tools such as computer-aided software engineering, joint requirements planning, and joint application design to facilitate rapid prototyping and code generation.
+ 	a. 	prototyping life cycle	b. 	waterfall life cycle
+ 	c. 	RAD life cycle	d. 	spiral life cycle
+ANSWER:  	c
+RATIONALE:  	Feedback: The RAD life cycle model uses an approach in which developers work with an evolving prototype. This life cycle model also requires heavy user involvement and helps produce systems quickly without sacrificing quality.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.65
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: o Reflective Thinking - BUSPROG: Analytic skills: Statistics and Management Science
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 11:41 PM
+
+
+56. Which of the following best describes a kill point in the project life cycle?
+ 	a. 	The period of time given to managers during the feasibility phases to decide on the cost, quality, and time constraints for the project
+ 	b. 	A review of the status of a project at each phase of development to determine if it should be continued, redirected, or terminated
+ 	c. 	The point of time in the project lifecycle after which it is impossible to terminate a running project
+ 	d. 	The final submission of the project deliverables after which the project is terminated
+ANSWER:  	b
+RATIONALE:  	Feedback: A management review should occur after each phase to evaluate progress, potential success, and continued compatibility with organizational goals. These management reviews, called phase exits, phase gate reviews, or kill points, are very important for keeping projects on track and determining if they should be continued, redirected, or terminated.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.66
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 11:44 PM
+
+
+57. Which statement best describes outsourcing?
+ 	a. 	An organization selling its products in a market outside its domestic market
+ 	b. 	An organization’s acquisition of goods and services from an outside source
+ 	c. 	An organization setting up manufacturing and retailing facilities in a new country
+ 	d. 	An organization’s use of virtual teams with employees located in different countries
+ANSWER:  	b
+RATIONALE:  	Feedback: Outsourcing is an organization’s acquisition of goods and services from an outside source. The term offshoring is sometimes used to describe outsourcing from another country.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.70
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.14 - LO: 2-6
+NATIONAL STANDARDS:  	United States - BUSPROG: o Reflective Thinking - BUSPROG: Analytic skills: Statistics and Management Science
+TOPICS:  	Recent Trends Affecting Information Technology Project Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/14/2018 10:13 AM
+
+
+58. Which is a disadvantage for virtual teams compared to traditional teams?
+ 	a. 	Increased costs for office space and support
+ 	b. 	Reduced opportunities for informal transfer of information
+ 	c. 	Limited flexibility in team working hours
+ 	d. 	Reduced dependence on technology and processes for accomplishing work
+ANSWER:  	b
+RATIONALE:  	Feedback: Virtual teams reduce the ability of team members to network and transfer information informally.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.72
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.14 - LO: 2-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Recent Trends Affecting Information Technology Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/14/2018 10:14 AM
+
+
+59. Which characteristic is true of virtual teams?
+ 	a. 	It is easier for a virtual team to build relationships and trust.
+ 	b. 	Negative incentives do not impact virtual team members.
+ 	c. 	It is important to select team members carefully.
+ 	d. 	As they never meet, virtual teams do not have conflicts.
+ANSWER:  	c
+RATIONALE:  	Feedback: It is important to select team members carefully and to form a team in which all roles are covered. All virtual team members must also understand their roles on the team.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p. 72
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.14 - LO: 2-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Recent Trends Affecting Information Technology Project Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	7/25/2018 5:18 PM
+
+
+60. Which observation is true of the agile approach to software development?
+ 	a. 	In the agile method, requirements and solutions evolve through collaboration.
+ 	b. 	An agile approach sets scope goals, but leaves time and cost goals flexible.
+ 	c. 	Agile is a predictive model of software development.
+ 	d. 	In the agile approach, requirements must be clearly expressed early in the life cycle.
+ANSWER:  	a
+RATIONALE:  	Feedback: Agile today means using an approach where requirements and solutions evolve through collaboration.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p. 73
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.14 - LO: 2-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Recent Trends Affecting Information Technology Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:14 AM
+
+
+Completion
+
+61. A(n) _____ is an overall model for thinking about things as systems.
+ANSWER:  	systems philosophy
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.49
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/7/2018 11:52 PM
+
+
+62. _____ are sets of interacting components working within an environment to fulfill some purpose.
+ANSWER:  	Systems
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.49
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+63. _____ addresses the business, technological, and organizational issues associated with creating, maintaining, and modifying a system.
+ANSWER:  	Systems management
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.49
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:15 AM
+
+
+64. The three spheres of systems management are business, organization, and _____.
+ANSWER:  	technology
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.50
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+65. The _____ frame of the organization is the one that is usually depicted in an organizational chart.
+ANSWER:  	structural
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.52
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+66. The _____ frame of an organization relates to the company’s culture.
+ANSWER:  	symbolic
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.53
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+67. Three general classifications of organizational structures are _____, project, and matrix.
+ANSWER:  	functional
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p. 53
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+68. In a(n) _____ organizational structure, project managers have little or no authority.
+ANSWER:  	functional
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.56
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+69. _____ refers to the degree to which work activities are organized around teams, rather than individuals.
+ANSWER:  	Group emphasis
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.57
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+70. _____ refers to the degree to which rules, policies, and direct supervision are used to oversee employee behavior.
+ANSWER:  	Control
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.58
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+71. Some projects have a senior manager called a(n) _____ who acts as a key advocate for a project.
+ANSWER:  	champion
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.60
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.11 - LO: 2-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Focusing on Stakeholder Needs
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:09 AM
+
+
+72. A major element of good practice concerns _____, which addresses the authority and control for key IT activities in organizations, including IT infrastructure, IT use, and project management.
+ANSWER:  	IT governance
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.61
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.11 - LO: 2-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Focusing on Stakeholder Needs
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 11:16 AM
+
+
+73. A(n) _____ refers to a product or service, such as a report, a training session, a piece of hardware, or a segment of software code, produced or provided as part of a project.
+ANSWER:  	deliverable
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.63
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+74. A(n) _____ is a framework for describing the phases of developing information systems.
+ANSWER:  	SDLC
+systems development life cycle
+systems development life cycle (SDLC)
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.64
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 12:03 AM
+
+
+75. The _____ life cycle model is suitable for projects in which changes can be incorporated with reasonable cost increases or acceptable time delays.
+ANSWER:  	spiral
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.65
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+76.  The _____ life cycle model is used when risk must be tightly controlled and when changes must be restricted after the requirements are defined.
+ANSWER:  	waterfall
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.64
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 12:07 AM
+
+
+77. _____ software development can be used for software development or in any environment in which the requirements are unknown or change quickly.
+ANSWER:  	Agile
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p. 73
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/14/2018 10:17 AM
+
+
+78. _____ is an organization’s acquisition of goods and services from an outside source. 
+ANSWER:  	Outsourcing
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.70
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.14 - LO: 2-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Recent Trends Affecting Information Technology Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+79. Sprint planning is part of the basic ______.
+ANSWER:  	Scrum framework
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.74
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.14 - LO: 2-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Recent Trends Affecting Information Technology Project Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+Essay
+
+80. Describe the concept of a systems approach.
+ANSWER:  	The term systems approach emerged in the 1950s to describe a holistic and analytical approach to solving complex problems that includes using a systems philosophy, systems analysis, and systems management. A systems philosophy is an overall model for thinking about things as systems.
+
+Systems are sets of interacting components working within an environment to fulfill some purpose. For example, the human body is a system composed of many subsystems, including the nervous system, the skeletal system, the circulatory system, and the digestive system. Systems analysis is a problem-solving approach that requires defining the scope of the system, dividing it into its components, and then identifying and evaluating its problems, opportunities, constraints, and needs. Once this is completed, the systems analyst then examines alternative solutions for improving the current situation, identifies an optimum, or at least satisfactory, solution or action plan; and examines that plan against the entire system. Systems management addresses the business, technological, and organizational issues associated with creating, maintaining, and modifying a system.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.49
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.9 - LO: 2-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	A Systems View of Project Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/14/2018 10:18 AM
+
+
+81. What are the four frames of organizations? Describe each frame.
+ANSWER:  	The structural frame deals with how the organization is structured (usually depicted in an organizational chart) and focuses on different groups’ roles and responsibilities in order to meet the goals and policies set by top management. This frame is very rational and focuses on coordination and control. For example, within the structural frame, a key IT issue is whether a company should centralize the IT personnel in one department or decentralize across several departments.
+
+The human resources (HR) frame focuses on producing harmony between the needs of the organization and the needs of the people. It recognizes that mismatches can occur between the needs of the organization and those of individuals and groups, and works to resolve any potential problems. For example, many projects might be more efficient for the organization if personnel worked 80 or more hours a week for several months. However, this work schedule would conflict with the personal lives and health of many employees. Important IT issues related to the human resources frame are the shortage of skilled IT workers within the organization and unrealistic schedules imposed on many projects.
+
+The political frame addresses organizational and personal politics. Politics in organizations take the form of competition among groups or individuals for power and leadership. The political frame emphasizes that organizations are coalitions composed of varied individuals and interest groups. Often, important decisions need to be made based on the allocation of scarce resources. Competition for resources makes conflict a central issue in organizations, and power improves the ability to obtain those resources. Project managers must pay attention to politics and power if they are to be effective. It is important to know who opposes your projects as well as who supports them. Important IT issues related to the political frame are the differences in power between central functions to operating units or between functional managers to project managers.
+
+The symbolic frame focuses on symbols and meanings. In this frame, the most important aspect of any event in an organization is not what actually happened, but what it means. Was it a good sign that the CEO came to a kick-off meeting for a project, or was it a threat? The symbolic frame also relates to the company’s culture. How do people dress? How many hours do they work? How do they run meetings? Many IT projects are international and include stakeholders from various cultures. Understanding those cultures is also a crucial part of the symbolic frame.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.52-53
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.10 - LO: 2-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	7/25/2018 5:19 PM
+
+
+82. Describe each of the three major types of organizational structure.
+ANSWER:  	A functional organizational structure is the hierarchy most people think of when picturing an organizational chart. Functional managers or vice presidents in specialties such as engineering, manufacturing, IT, and human resources (HR) report to the chief executive officer (CEO). Their staffs have specialized skills in their respective disciplines. For example, most colleges and universities have very strong functional organizations. Only faculty in the business department teach business courses; faculty in the history department teach history; faculty in the art department teach art, and so on.
+
+A project organizational structure also is hierarchical, but instead of functional managers or vice presidents reporting to the CEO, program managers report to the CEO. Their staffs have a variety of skills needed to complete the projects within their programs. An organization that uses this structure earns their revenue primarily from performing projects for other groups under contract. For example, many defense, architectural, engineering, and consulting companies use a project organizational structure. These companies often hire people specifically to work on particular projects.
+
+A matrix organizational structure represents the middle ground between functional and project structures. Personnel often report to both a functional manager and one or more project managers. For example, IT personnel at many companies often split their time between two or more projects, but they report to their manager in the IT department. Project managers in matrix organizations have staff from various functional areas working on their projects. Matrix organizational structures can be strong, weak, or balanced, based on the amount of control exerted by the project managers.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.53-55
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.11 - LO: 2-3
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Understanding Organizations
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 12:25 AM
+
+
+83. Why is top management commitment crucial for project managers?
+ANSWER:  	Project managers need adequate resources. The best way to kill a project is to withhold the required money, human resources, and visibility for the project. If project managers have top management commitment, they will also have adequate resources and not be distracted by events that do not affect their specific projects.
+
+Project managers often require approval for unique project needs in a timely manner. For example, on large IT projects, top management must understand that unexpected problems may result from the nature of the products being developed and the specific skills of the people on the project team. The team might need additional hardware and software halfway through the project for proper testing, or the project manager might need to offer special pay and benefits to attract and retain key project personnel. With top management commitment, project managers can meet these needs.
+
+Project managers must have cooperation from people in other parts of the organization. Because most IT projects cut across functional areas, top management must help project managers deal with the political issues that often arise. If certain functional managers are not responding to project managers’ requests for necessary information, top management must step in to encourage functional managers to cooperate.
+
+Project managers often need someone to mentor and coach them on leadership issues. Many IT project managers come from technical positions and are inexperienced as managers. Senior managers should take the time to pass on advice on how to be good leaders. They should encourage new project managers to take classes to develop leadership skills and allocate the time and funds for managers to do so.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p. 60-61
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.11 - LO: 2-3
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Focusing on Stakeholder Needs
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 12:29 AM
+
+
+84. What is a systems development life cycle? What are some of the predictive models associated with the systems development life cycle?
+ANSWER:  	A systems development life cycle (SDLC) is a framework for describing the phases of developing information systems. In addition to the waterfall model for the SDLC, other predictive life cycles include the spiral model, the prototyping model, and the Rapid Application Development (RAD) model. The project team spends a large portion of the project attempting to clarify the requirements of the entire system and then producing a design. Users are often unable to see any tangible results in terms of working software for an extended period. Below are brief descriptions of several predictive SDLC models:
+
+The waterfall life cycle model has well-defined, linear stages of systems development and support. This life cycle model assumes that requirements will remain stable after they are defined.
+
+The spiral life cycle model was developed based on refinements of the waterfall model as applied to large government software projects. It recognizes the fact that most software is developed using an iterative or spiral approach rather than a linear approach.
+
+The prototyping life cycle model is used for developing software prototypes to clarify user requirements for operational software. It requires heavy user involvement, and developers use a model to generate functional requirements and physical design specifications simultaneously. Developers can throw away or keep prototypes, depending on the project.
+
+The RAD life cycle model uses an approach in which developers work with an evolving prototype. This life cycle model also requires heavy user involvement and helps produce systems quickly without sacrificing quality. Developers use RAD tools such as CASE (computer-aided software engineering), JRP (joint requirements planning), and JAD (joint application design) to facilitate rapid prototyping and code generation.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p. 64-65
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.12 - LO: 2-4
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Project Phases and the Project Life Cycle
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	5/8/2018 12:34 AM
+
+
+85. Discuss four key issues project managers must address when working on global projects.
+ANSWER:  	Communications. Because people work in different time zones, speak different languages, have different cultural backgrounds, and celebrate different holidays, it is important to address how people will communicate in an efficient and timely manner.
+
+Trust. Trust is an important issue for all teams, especially when they are global teams. It is important to start building trust immediately by recognizing and respecting others' differences and the value they add to the project.
+
+Common work practices. It is important to align work processes and develop a modus operandi with which everyone agrees and is comfortable.
+
+Tools. IT pays a vital role in globalization, especially in enhancing communications and work practices. Many people use free tools such as Skype, Google Docs or social media to communicate.  Many project management software tools include their own communications and collaboration features in an integrated package. 
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p. 69-70
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.14 - LO: 2-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Recent Trends Affecting Information Technology Project Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:48 PM
+DATE MODIFIED:  	4/27/2018 3:48 PM
+
+
+

@@ -1,0 +1,1447 @@
+1. Suppliers are those organizations or individuals who provide procurement services.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Organizations or individuals who provide procurement services are referred to as suppliers. Suppliers are also known as vendors, contractors, subcontractors, or sellers.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.506
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+2. While outsourcing, organizations should protect strategic information because it can become vulnerable in the hands of suppliers.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: While outsourcing, organizations should be careful to protect strategic information that could become vulnerable in the hands of suppliers.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.509
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+3. Project procurement management consists primarily of two processes: assessing procurements and controlling procurements.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: There are three main processes in project procurement management. These consist of planning procurement management, conducting procurements, and controlling procurements.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.510-511
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+4. If an organization has no need to buy any products or services from outside the organization, then it has no need to perform any of the procurement management processes.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Planning procurements involves identifying which project needs can best be met by using products or services outside the organization. If there is no need to buy products or services from outside the organization, then further procurement management is not needed.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.512
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+5. A single contract can include all three categories of contracts.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Three broad categories of contracts are fixed price or lump sum, cost reimbursable, and time and material. A single contract can include all three of these categories if it makes sense for a particular procurement.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.512
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+6. Indirect costs are those costs can be traced back to a project in a cost-effective way.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Indirect costs are not directly related to the products or services of the project, but they are indirectly related to performing the project. Normally, these costs cannot be traced back to the project in a cost-effective way.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.513
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+7. Buyers absorb lesser risk with cost-reimbursable contracts than they do with fixed-price contracts.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: Cost-reimbursable contracts often include fees, such as a profit percentage or incentives for meeting or exceeding selected project objectives. Buyer absorb more of the risk with cost-reimbursable contracts than they do with fixed-price contracts.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.513
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+8. The fee in a CPFF contract constantly varies even when the scope of a contract remains the same.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: With a cost plus fixed fee (CPFF) contract, the buyer pays the supplier for allowable performance costs plus a fixed fee payment that is usually based on a percentage of estimated costs. This fee does not vary, however, unless the scope of the contract changes.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.513-514
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+9. In unit pricing, the total value of the contract is a function of the quantities needed to complete the work.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Unit pricing can be used in various types of contracts to require the buyer to pay the supplier a predetermined amount per unit of product or service. The total value of the contract is a function of the quantities needed to complete the work.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.515
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+10. All contracts should include specific clauses that take into account issues unique to the project.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Any type of contract should include specific clauses that take into account issues unique to the project.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.515
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+11. In an FPI contract, all of the risk is borne by the buyer.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: A firm-fixed-price (FFP) contract has the least amount of risk for the buyer, followed by a fixed-price incentive fee (FPIF) contract.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.512
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+12. An FP-EPA contract carries the least risk for a supplier.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: For a seller, an FFP carries the most risk. An FP-EPA contract carries a higher degree of risk for a seller than a CPPC, CPFF, CPIF, CPAF, or an FPI.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.515
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+13. Make-or-buy analysis involves comparing the internal costs of providing a product with the cost of outsourcing.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Make-or-buy analysis involves estimating the internal costs of providing a product or service and comparing the estimate to the cost of outsourcing.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.516
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+14. A company is considering whether to purchase or lease a piece of equipment for an upcoming project.  The cost to purchase is $10,000 plus $100 per day to operate or $500 per day to lease (including operating costs). If the company anticipates using the equipment for a total of 20 days, they will be indifferent as to whether or lease or purchase it.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: If the company uses the equipment for 20 days, they would be better off with a lease at a total cost of $10,000 (20 x $500).  The purchase cost of $10,000 will be increased by $2,000 of operating costs (20 x $100).
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Challenging
+REFERENCES:  	p.517
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Technology
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Application
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+15. Contents of the procurement management plan vary with project needs.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: The procurement management plan is a document that describes how the procurement processes will be managed. Like other project plans, contents of the procurement management plan will vary with project needs.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.518
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+16. The main sections of an RFP can include the statement of work and schedule information.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: The main sections of an RFP usually include its statement of purpose, background information on the organization issuing the RFP, the basic requirements for the products and services being proposed, and the hardware and software environment.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.520
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+17. A key factor in evaluating bids, particularly for projects involving information technology, is the past performance record of the bidder.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: A key factor in evaluating bids, particularly for projects involving IT, is the past performance record of the bidder. The RFP should require bidders to list other similar projects they have worked on and provide customer references for those projects.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.525
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+18. Reviewing performance records reduces the risk of selecting a supplier with a poor track record.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: A key factor in evaluating bids, particularly for projects involving IT, is the past performance record of the bidder. Reviewing performance records and references reduces the risk of selecting a supplier with a poor track record.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.525
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+19. In project procurement management, a main output of controlling procurements is a source selection criteria.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	False
+RATIONALE:  	Feedback: The main outputs of this process include closed procurements, work performance information, procurement documentation updates, change requests, project management plan updates, project documents updates, and organizational process assets.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.511
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.88 - LO: 12-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Conducting Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+20. The contractual relationship is a legal relationship, which means it is subject to state and federal contract laws.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Controlling procurements ensures that the seller’s performance meets contractual requirements. The contractual relationship is a legal relationship, which means it is subject to state and federal contract laws.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.527
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.89 - LO: 12-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Controlling Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+21. The closing procurements process involves updating records to reflect final results and archiving information for future use.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: The final process in project procurement management is closing procurements. This process involves determining if all work required in each contract was completed correctly and satisfactorily. The team should also update records to reflect final results and archive information for future use.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.528
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.90 - LO: 12-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Closing Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+22. Procurement audits are often done during contract closure to identify lessons learned in the entire procurement process.
+ 	a. 	True
+ 	b. 	False
+ANSWER:  	True
+RATIONALE:  	Feedback: Procurement audits are often done during contract closure to identify lessons learned in the entire procurement process. Organizations should strive to improve all of their business processes, including procurement management.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.528
+QUESTION TYPE:  	True / False
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.90 - LO: 12-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Closing Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+Multiple Choice
+
+23. A shortage of qualified personnel is one of the main reason that companies outsource. A project may require experts in a particular field for several months and planning for this procurement ensures that the needed services will be available for the project. Which benefit does this characteristic of outsourcing provide an organization?
+ 	a. 	reduces focus on its core business	b. 	increases control over all aspects of projects that suppliers carry out.
+ 	c. 	provides access to specific skills	d. 	reduces dependency on suppliers
+ANSWER:  	c
+RATIONALE:  	Feedback: Organizations can gain access to specific skills and technologies by using outside resources.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.508
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+24. Outsourcing suppliers can often provide economies of scale, especially for hardware and software, that may not be available to the client alone. Which benefit does this offer an organization?
+ 	a. 	reduction in costs	b. 	increased flexibility
+ 	c. 	increased accountability	d. 	access to specific skills
+ANSWER:  	a
+RATIONALE:  	Feedback: Companies can use outsourcing to reduce labor costs on projects by avoiding the costs of hiring, firing, and reassigning people to projects or paying their salaries when they are between projects. Outsourcing suppliers often can provide economies of scale that may not be available to the client alone, especially for hardware and software.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.508
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+25. Most organizations are not in business to provide information technology services, yet many have spent valuable time and resources on information technology functions when they should have instead worked on important competencies such as marketing, customer service, and new product design. Outsourcing helps tackle this problem. Which benefit does outsourcing primarily provide in such a scenario?
+ 	a. 	reduces fixed and recurrent costs	b. 	protects strategic information from being accessible to external suppliers
+ 	c. 	increases accountability even without a written contract	d. 	helps focus on an organization’s core business
+ANSWER:  	d
+RATIONALE:  	Feedback: By outsourcing many IT functions, employees can focus on jobs that are critical to the success of the organization.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.509
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+26. Outsourcing to provide extra workers during periods of peak workloads can be much more economical than trying to fill entire projects with internal resources. Which advantages does this characteristic of outsourcing provide organizations?
+ 	a. 	offers control over all aspects of projects that suppliers carry out	b. 	provides flexibility 
+ 	c. 	shifts accountability from external suppliers to internal staff	d. 	helps avoid any form of dependency on suppliers
+ANSWER:  	b
+RATIONALE:  	Feedback: Outsourcing to provide extra staff during periods of peak workloads can be much more economical than trying to staff entire projects with internal resources. Many companies cite better flexibility in staffing as a key reason for outsourcing.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.509
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+27. What is one drawback of outsourcing?
+ 	a. 	it does not provide access to specific skills or technologies	b. 	it invariably results in an increase in both fixed and recurrent costs
+ 	c. 	it can make an organization become overly dependent on particular suppliers.	d. 	it cannot increase accountability of suppliers through a written contract
+ANSWER:  	c
+RATIONALE:  	Feedback: An organization can become too dependent on particular suppliers. If those suppliers went out of business or lost key personnel, it could cause great damage to a project.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.509
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+28. What is the first step in project procurement management?
+ 	a. 	closing procurement management.	b. 	controlling procurements.
+ 	c. 	conducting procurements.	d. 	planning procurement management.
+ANSWER:  	d
+RATIONALE:  	Feedback: The process of planning procurement management involves determining what to procure and when and how to do it. This is the first step of project procurement management.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.510
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+29. In project procurement management, which process involves determining what to procure, when, and how?
+ 	a. 	closing procurements	b. 	controlling procurements
+ 	c. 	conducting procurements	d. 	planning procurement management
+ANSWER:  	d
+RATIONALE:  	Feedback: The process of planning procurement management involves determining what to procure and when and how to do it.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.510
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/8/2018 7:48 PM
+
+
+30. In project procurement management, which process involves obtaining seller responses, selecting sellers, and awarding contracts?
+ 	a. 	conducting procurements	b. 	closing procurements
+ 	c. 	settling contracts	d. 	planning procurement management
+ANSWER:  	a
+RATIONALE:  	Feedback: The process of conducting procurements involves obtaining seller responses, selecting sellers, and awarding contracts.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.510
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+31. Outputs of the _____ process consist of selected sellers and change requests.
+ 	a. 	closing procurements	b. 	conducting procurements
+ 	c. 	planning procurement management	d. 	controlling procurements
+ANSWER:  	b
+RATIONALE:  	Feedback: Conducting procurements involves obtaining seller responses, selecting sellers, and awarding contracts. Outputs include selected sellers, agreements, change requests, and updates to the project management plan and other project documents.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.510-511
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.91 - LO:12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 5:56 PM
+
+
+32. Which process of project procurement management involves managing relationships with sellers, monitoring contract performance, making changes as needed, and closing contracts?
+ 	a. 	negotiating procurements	b. 	settling contracts
+ 	c. 	deciding on the services to procure	d. 	controlling procurements
+ANSWER:  	d
+RATIONALE:  	Feedback: The process of controlling procurements involves managing relationships with sellers, monitoring contract performance, making changes as needed, and closing contracts.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.511
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+33. In project procurement management, which process involves completion and settlement of each contract, including resolution of any open items?
+ 	a. 	planning procurement management	b. 	controlling procurements
+ 	c. 	negotiating procurements	d. 	conducting procurements
+ANSWER:  	b
+RATIONALE:  	Feedback: The process of controlling procurements involves closing and completion and settlement of each contract or agreement, including resolution of any open items.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.528
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+34. The procurement statements of work are an output of the _____ process of project procurement management.
+ 	a. 	planning	b. 	executing
+ 	c. 	monitoring and controlling	d. 	closing
+ANSWER:  	a
+RATIONALE:  	Feedback: The procurement statements of work are an output of the planning process of project procurement management. Other outputs of the process include the procurement management plan, procurement documents and source selection criteria.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.510
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+35. In project procurement management, obtaining seller responses, selecting sellers, and awarding contracts is part of the _____ process.
+ 	a. 	planning	b. 	conducting procurements 
+ 	c. 	controlling	d. 	closing
+ANSWER:  	b
+RATIONALE:  	Feedback: Conducting procurements is part of the executing process of project procurement management. It involves obtaining seller responses, selecting sellers, and awarding contracts.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.510
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+36. In project procurement management, which is an output of the conducting procurements process?
+ 	a. 	make-or-buy decisions	b. 	statements of work
+ 	c. 	source selection criteria	d. 	change requests 
+ANSWER:  	d
+RATIONALE:  	Feedback: Outputs of this process include selected sellers, agreements, change requests, project management plan updates, project documents updates.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.510-511
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 5:59 PM
+
+
+37. In project procurement management, which is an output of the planning process?
+ 	a. 	change requests	b. 	selected sellers
+ 	c. 	resource calendars	d. 	make-or-buy decisions
+ANSWER:  	d
+RATIONALE:  	Feedback: Outputs of this process include a procurement management plan, procurement strategy, bid documents, procurement statement of work, source selection criteria, make-or-buy decisions, independent cost estimates, change request, project documents, updates, and organizational process assets updates.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.511
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+38. Which is true of lump-sum contracts?
+ 	a. 	They incur a high degree of risk for the buyer.	b. 	They involve a fixed total price for a well-defined product or service.
+ 	c. 	They consist of a fee based on the satisfaction of subjective performance criteria.	d. 	They are also known as cost-reimbursable contracts.
+ANSWER:  	b
+RATIONALE:  	Feedback: Fixed-price or lump-sum contracts involve a fixed total price for a well-defined product or service. The buyer incurs little risk in this situation because the price is predetermined.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.512
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+39. _____ contracts involve payment to the supplier for direct and indirect actual costs and often include fees.
+ 	a. 	Firm-fixed-price	b. 	Lump sum
+ 	c. 	Cost-reimbursable	d. 	Fixed-price incentive fee
+ANSWER:  	c
+RATIONALE:  	Feedback: Cost-reimbursable contracts involve payment to the supplier for direct and indirect actual costs. Such contracts often include fees, such as a profit percentage or incentives for meeting or exceeding selected project objectives.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.513
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 6:00 PM
+
+
+40. In a(n) _____ contract, the buyer pays the supplier for allowable performance costs along with a predetermined fee and an incentive bonus.
+ 	a. 	FFP	b. 	CPIF
+ 	c. 	CPPC	d. 	FPIF
+ANSWER:  	b
+RATIONALE:  	Feedback: In a cost plus incentive fee (CPIF) contract, the buyer pays the supplier for allowable performance costs along with a predetermined fee and an incentive bonus.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.513
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+41. With a(n) _____ contract, the buyer pays the supplier for allowable performance costs plus a fixed fee payment usually based on a percentage of estimated costs.
+ 	a. 	CPFF	b. 	FPIF
+ 	c. 	CPAF	d. 	CPIF
+ANSWER:  	a
+RATIONALE:  	Feedback: With a cost plus fixed fee (CPFF) contract, the buyer pays the supplier for allowable performance costs plus a fixed fee payment that is usually based on a percentage of estimated costs. This fee does not vary unless the scope of the contract changes.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.513-514
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+42. In which contract does the buyer pay the supplier for allowable performance costs along with a predetermined percentage based on total costs?
+ 	a. 	FPIF	b. 	CPIF
+ 	c. 	CPPC	d. 	CPAF
+ANSWER:  	c
+RATIONALE:  	Feedback: With a cost plus percentage of costs (CPPC) contract, the buyer pays the supplier for allowable performance costs along with a predetermined percentage based on total costs.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.514
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+43. From the buyer’s perspective, the _____ is the least desirable among all contracts because the supplier has no incentive to decrease costs.
+ 	a. 	CPIF	b. 	CPFF
+ 	c. 	CPAF	d. 	CPPC
+ANSWER:  	d
+RATIONALE:  	Feedback: With a cost plus percentage of costs (CPPC) contract, the buyer pays the supplier for allowable performance costs along with a predetermined percentage based on total costs. From the buyer’s perspective, this is the least desirable type of contract because the supplier has no incentive to decrease costs.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.514
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+44. A(n) _____ contract carries the least risk for suppliers.
+ 	a. 	CPPC	b. 	FFP
+ 	c. 	CPAF	d. 	FP-EPA
+ANSWER:  	a
+RATIONALE:  	Feedback: With a cost plus percentage of costs (CPPC) contract, the buyer pays the supplier for allowable performance costs along with a predetermined percentage based on total costs. From the supplier’s perspective, a CPPC contract carries the least risk.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.515
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+45. The _____ is a description of the work required for a procurement.
+ 	a. 	RFQ	b. 	RFP
+ 	c. 	WBS	d. 	SOW
+ANSWER:  	d
+RATIONALE:  	Feedback: The statement of work (SOW) is a description of the work required for a procurement. Some organizations use the term statement of work for a document that describes internal work as well.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.518
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+46. A(n) _____ is a document used to solicit proposals from prospective suppliers.
+ 	a. 	RFQ	b. 	WBS
+ 	c. 	RFP	d. 	SOW
+ANSWER:  	c
+RATIONALE:  	Feedback: A Request for Proposal (RFP) is a document used to solicit proposals from prospective suppliers.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.520
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+47. A document used to solicit quotes or bids from prospective suppliers is known as a(n) _____.
+ 	a. 	RFQ	b. 	RFP
+ 	c. 	WBS	d. 	SOW
+ANSWER:  	a
+RATIONALE:  	Feedback: A Request for Quote (RFQ) is a document used to solicit quotes or bids from prospective suppliers.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.520
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+48. After planning for procurement management, the next process involves ____.
+ 	a. 	determining the evaluation criteria for the contract award	b. 	developing procurement statements of work
+ 	c. 	using expert judgement in planning
+purchases and acquisitions	d. 	sending appropriate documentation to potential sellers
+ANSWER:  	d
+RATIONALE:  	Feedback: After planning for procurement management, the next process involves deciding whom to ask to do the work, sending appropriate documentation to potential sellers, obtaining proposals or bids, selecting a seller, and awarding a contract.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.525
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.88 - LO: 12-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Conducting Procurements
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/10/2018 6:05 PM
+
+
+49. In project procurement management, which is one of the main outputs of the conducting procurement process?
+ 	a. 	selected seller	b. 	procurement management plan
+ 	c. 	procurement statement of work	d. 	closed procurement
+ANSWER:  	a
+RATIONALE:  	Feedback: Two of the main outputs of the conducting procurement process are selected sellers and a procurement contract award.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.525
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.88 - LO: 12-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Conducting Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+50. The process of choosing suppliers or sellers is known as _____.
+ 	a. 	source selection	b. 	a bid
+ 	c. 	WBS	d. 	a change order
+ANSWER:  	a
+RATIONALE:  	Feedback: Selecting suppliers or sellers is called source selection. The process involves evaluating proposals or bids from sellers, choosing the best one, negotiating the contract, and awarding the contract.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.526
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.88 - LO: 12-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Conducting Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+51. Which of the following is an output of the contract closure process?
+ 	a. 	procurement statements of work	b. 	open item resolution 
+ 	c. 	resource calendars	d. 	work performance information
+ANSWER:  	b
+RATIONALE:  	Feedback: Contract closure involves completion and settlement of contracts and resolution of any open items.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.528
+QUESTION TYPE:  	Multiple Choice
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.90 - LO: 12-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Closing Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+Completion
+
+52. _____ refers to the process of acquiring goods and/or services from an outside source.
+ANSWER:  	Procurement
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.506
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+53. A(n) _____ is a mutually binding agreement that obligates the seller to provide the specified products or services and obligates the buyer to pay for them.
+ANSWER:  	contract
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.509
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+54. _____ management includes the processes required to acquire goods and services for a project from outside the performing organization.
+ANSWER:  	Project procurement
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.510
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+55. Procurement statements of work are an output of the _____ process.
+ANSWER:  	planning procurement management
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.510
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+56. A(n) _____ decision is one in which an organization decides if it is in its best interests to make certain products or perform certain services inside the organization, or if it is better to buy them from an outside organization.
+ANSWER:  	make-or-buy
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.512
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+57. A(n) _____ contract has the least amount of risk for the buyer.
+ANSWER:  	firm-fixed-price (FFP)
+firm-fixed-price
+FFP
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.512
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+58. A(n) _____ contract includes a special provision for predefined final adjustments to the contract price due to changes in conditions such as inflation.
+ANSWER:  	fixed-price with economic price adjustment (FP-EPA)
+fixed-price with economic price adjustment
+FP-EPA
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.512
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+59. The cost at which the contractor assumes total responsibility for each additional dollar of contract cost is known as a(n) _____.
+ANSWER:  	point of total assumption (PTA)
+point of total assumption
+PTA
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.512
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+60. Three types of cost-reimbursable contracts include cost plus incentive fee, cost plus fixed fee, and _____.
+ANSWER:  	cost plus percentage of costs (CPPC)
+cost plus percentage of costs
+CPPC
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.513-514
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+61. _____ contracts are a hybrid of fixed-price and cost-reimbursable contracts.
+ANSWER:  	Time and material (T&M)
+Time and material 
+T&M
+
+
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.515
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/8/2018 7:50 PM
+
+
+62. A(n) _____ is a contract clause that allows the buyer or supplier to end the contract.
+ANSWER:  	termination clause
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.516
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+63. If an SOW is used as part of a contract to describe only the work required for that particular contract, it is called a(n) _____.
+ANSWER:  	contract statement of work
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.518
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+64. A contract statement of work is a type of _____ statement that describes the work in sufficient detail to allow prospective suppliers to determine if they can provide the required goods and services and to determine an appropriate price.
+ANSWER:  	scope
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.518
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+65. A(n) _____ is a document prepared by a seller when there are different approaches for meeting buyer needs.
+ANSWER:  	proposal
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.520
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+66. A(n) _____ is also known as a tender or quote, short for quotation.
+ANSWER:  	bid
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.520
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+67. All procurement documents should be in _____ form in order to facilitate accurate and complete responses from prospective sellers.
+ANSWER:  	written
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.521
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+68. A(n)_____ conference helps ensure that everyone has a clear, common understanding of the buyer’s desired products or services.
+ANSWER:  	bidders’
+supplier 
+pre-bid 
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.525-526
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.88 - LO: 12-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Conducting Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+69. The process of source selection involves evaluating proposals from sellers, choosing the best one, negotiating, and awarding the _____.
+ANSWER:  	contract
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.526
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.92 - LO:12-3
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Conducting Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+70. _____ are oral or written acts or omissions by someone with actual or apparent authority that can be construed to have the same effect as a written change order.
+ANSWER:  	Constructive change orders
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.528
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.89 - LO: 12-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Controlling Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+71. In procurement management, evaluation of any change should include a(n) _____ analysis.
+ANSWER:  	impact
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.528
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.89 - LO: 12-4
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Controlling Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+72. Controlling procurement also involves _____, which is sometimes referred to as contract closure.
+ANSWER:  	closing procurements
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.528
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.90 - LO: 12-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Closing Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+73. Tools used in contract closure include procurement audits, _____, and a records management system.
+ANSWER:  	negotiated settlements
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.528
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.90 - LO: 12-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Closing Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+74. A(n) _____ system provides the ability to easily organize, find, and archive procurement-related documents.
+ANSWER:  	records management
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.528-529
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.90 - LO: 12-5
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Closing Procurements
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+75. A(n) _____ type of e-procurement that sends requests for information and prices to suppliers and receives the response of suppliers using Internet technology.
+ANSWER:  	e-tendering
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.530
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.93 - LO:12-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Using Software To Assist In Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+76. A(n) _____ type of e-procurement that identifies new suppliers for a specific category of purchasing requirements using Internet technology.
+ANSWER:  	e-sourcing
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Easy
+REFERENCES:  	p.530
+QUESTION TYPE:  	Completion
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.94 - LO: 12-6
+NATIONAL STANDARDS:  	United States - BUSPROG: - Comprehension
+TOPICS:  	Using Software to Assist in Project Procurement Management
+KEYWORDS:  	Bloom's: Knowledge
+DATE CREATED:  	4/27/2018 3:53 PM
+DATE MODIFIED:  	6/10/2018 6:15 PM
+
+
+Essay
+
+77. What are some of the advantages that outsourcing offers which is encouraging many companies to adopt it?
+ANSWER:  	Outsourcing provides several advantages. These include:
+
+(1) Access to skills and technologies: Organizations can gain access to specific skills and technologies by using outside resources. A project may require experts in a particular field for several months, or it might require specific technologies from an outside source. Planning for this procurement ensures that the needed skills and technologies will be available for the project.
+
+(2) Reduces both fixed and recurrent costs: Outsourcing suppliers often can use economies of scale that may not be available to the client alone, especially for hardware and software. It can also be less expensive to outsource some labor costs to other organizations in the same country or offshore.
+
+(3) Allows the client organization to focus on its core business: By outsourcing many IT functions, employees can focus on jobs that are critical to the success of the organization.
+481
+(4) Provides flexibility: Outsourcing to provide extra staff during periods of peak workloads can be much more economical than trying to staff entire projects with internal resources. Many companies cite better flexibility in staffing as a key reason for outsourcing.
+
+(5) Increases accountability: A well-written contract can clarify responsibilities and sharpen focus on key deliverables of a project. Contracts are legally binding and thus there is more accountability for delivering the work as stated in the contract.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.508-509
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+78. List and briefly describe the main processes of project procurement management.
+ANSWER:  	The four main processes of project procurement management are as follows:
+
+(1) Planning procurement management involves determining what to procure, when, and how. In procurement planning, one must decide what to outsource, determine the type of contract, and describe the work for potential sellers.
+
+(2) Conducting procurements involves obtaining seller responses, selecting sellers, and awarding contracts.
+
+(3) Controlling procurements involves managing relationships with sellers, monitoring contract performance, making changes as appropriate, and closing out contracts.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.510-511
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.86 - LO: 12-1
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	The Importance of Project Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+79. What are the four types of cost-reimbursable contracts? Briefly describe each type.
+ANSWER:  	The four types of cost-reimbursable contracts are as follows:
+
+(1) A cost plus incentive fee (CPIF) contract is one in which the buyer pays the supplier for allowable performance costs along with a predetermined fee and an incentive bonus. If the final cost is less than the expected cost, both the buyer and the supplier benefit from the cost savings, according to a negotiated share formula.
+
+(2) A cost plus fixed fee (CPFF) contract is one in which the buyer pays the supplier for allowable performance costs plus a fixed fee payment usually based on a percentage of estimated costs. This fee does not vary, however, unless the scope of the contract changes.
+
+(3) With a cost plus award fee (CPAF) contract, the buyer pays the supplier for allowable performance costs plus an award fee based on the satisfaction of subjective performance criteria. This type of contract is not usually subject to appeals.
+
+(4) With a cost plus percentage of costs (CPPC) contract, the buyer pays the supplier for allowable performance costs along with a predetermined percentage based on total costs. From the buyer’s perspective, this is the least desirable type of contract because the supplier has no incentive to decrease costs.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.513-514
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+80. How is a statement of work (SOW) different from a contract statement of work? What are some of the requirements for creating a contract SOW?
+ANSWER:  	The statement of work (SOW) is a description of the work required for the procurement. If a SOW is used as part of a contract to describe only the work required for that particular contract, it is called a contract statement of work. The contract SOW is a type of scope statement that describes the work in sufficient detail to allow prospective suppliers to determine if they are capable of providing the goods and services required and to determine an appropriate price.
+
+A contract SOW should be clear, concise, and as complete as possible. It should describe all services required and include performance reporting. It is important to use appropriate words in a contract SOW such as must instead of may. It should specify the products and services required for the project, use industry terms, and refer to industry standards.
+
+It should specify the location of the work, the expected period of performance, specific deliverables and when they are due, applicable standards, acceptance criteria, and special requirements. A good contract SOW gives bidders a better understanding of the buyer’s expectations. A contract SOW should become part of the official contract to ensure that the buyer gets what the supplier bid on.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.518-519
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.87 - LO: 12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+81. How are RFPs different from RFQs? What are some of the requirements of writing an RFP?
+ANSWER:  	A Request for Proposal (RFP) is a document used to solicit proposals from prospective suppliers. On the other hand, A Request for Quote (RFQ) is a document used to solicit quotes or bids from prospective suppliers.
+
+Developing an RFP is often a time-consuming process. Organizations must plan properly to ensure that they adequately describe what they want to procure, what sellers to include in their proposals, and how they will evaluate proposals. To generate a good RFP, expertise is invaluable. It is thus important to consult with experts who know the contract planning process for particular organizations. Legal requirements are often involved in issuing RFPs and reviewing proposals, especially for government projects. To make sure that an RFP has enough information to provide the basis for a good proposal, the buying organization should try to put itself in the suppliers’ shoes.
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.520
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.95 - LO:12-2
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Planning Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+82. What are the four main capabilities of procure-to-pay suites for indirect procurements?  What type(s) of organizations are they suitable for?
+ANSWER:  	The four main capabilities of procure-to-pay suites for indirect procurements include:
+
+E-purchasing functionality: This provides a self-service solution to requisition and order goods and services through the use of catalogs, e-forms, or free-text orders (for when users cannot find items in a structured format).
+
+Catalog management capabilities: Includes catalog content upload, content update evaluation tools, and catalog search tools.
+
+E-invoicing: Enables the interchange and storage of legally valid invoices in electronic format.
+
+Accounts Payable Invoice Automation (APIA): Allows approval and control of incoming invoices through either automatic or manual approvals by automatic workflows.
+
+At current software suite prices, organizations with annual revenues of $800 million or more usually realize a good return on investment from using these tools.
+
+
+POINTS:  	1
+DIFFICULTY:  	Difficulty: Moderate
+REFERENCES:  	p.530-531
+QUESTION TYPE:  	Essay
+HAS VARIABLES:  	False
+LEARNING OBJECTIVES:  	INFO.SCHW.14.93 - LO:12-6
+NATIONAL STANDARDS:  	United States - BUSPROG: Analytic
+TOPICS:  	Using Software To Assist In Project Procurement Management
+KEYWORDS:  	Bloom's: Comprehension
+DATE CREATED:  	4/27/2018 3:52 PM
+DATE MODIFIED:  	6/7/2018 3:37 PM
+
+
+
